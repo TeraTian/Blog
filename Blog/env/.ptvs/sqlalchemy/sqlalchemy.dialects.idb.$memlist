@@ -1,11 +1,11 @@
 firebird
 _translates
 registry
-mysql
+oracle
 util
 sqlite
 mssql
-oracle
+mysql
 _auto_fn
 postgresql
 __all__

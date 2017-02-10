@@ -36,7 +36,6 @@ HTTPError
 logging
 delete
 NullHandler
-packages
 URLRequired
 status_codes
 Response

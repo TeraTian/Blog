@@ -4612,3 +4612,1886 @@ IndexError: pop from empty list
 2017-02-10T15:16:19: Saving group "E:\pythonExe\Blog\Blog\env\Lib\site-packages\wheel"
 2017-02-10T15:16:20: End of group "E:\pythonExe\Blog\Blog\env\Lib\site-packages\wheel"
 2017-02-10T15:16:20: Deleting 0 files
+
+2017-02-10T21:37:06: Start analysis
+2017-02-10T21:37:06: [WARNING] Library was set explicitly - skipping path detection
+2017-02-10T21:37:06: IncludeModulesFromModulePath = win32com
+2017-02-10T21:37:08: Deleting 869 files
+2017-02-10T21:37:09: Scraping builtin modules
+2017-02-10T21:37:09: Command: C:\Project\Python\MyBlog\Blog\Blog\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" C:\Project\Python\MyBlog\Blog\Blog\env\.ptvs\ "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-02-10T21:37:10: [WARNING] Errors
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 113, in <module>
+    import cPickle as pickle
+ImportError: No module named 'cPickle'
+During handling of the above exception, another exception occurred:
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 115, in <module>
+    import pickle # Py3k
+ImportError: No module named 'pickle'
+2017-02-10T21:37:10: [ERROR] Failed to scrape builtin modules (Exit Code: 1)
+2017-02-10T21:37:10: [ERROR] Analysis failed
+System.InvalidOperationException: Failed to scrape builtin modules
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Scrape>d__53.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<RunWorker>d__31.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Run>d__30.MoveNext()
+
+2017-02-10T21:37:33: Start analysis
+2017-02-10T21:37:33: [WARNING] Library was set explicitly - skipping path detection
+2017-02-10T21:37:33: IncludeModulesFromModulePath = win32com
+2017-02-10T21:37:34: Deleting 0 files
+2017-02-10T21:37:34: Scraping builtin modules
+2017-02-10T21:37:34: Command: C:\Project\Python\MyBlog\Blog\Blog\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" C:\Project\Python\MyBlog\Blog\Blog\env\.ptvs\ "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-02-10T21:37:34: [WARNING] Errors
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 113, in <module>
+    import cPickle as pickle
+ImportError: No module named 'cPickle'
+During handling of the above exception, another exception occurred:
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 115, in <module>
+    import pickle # Py3k
+ImportError: No module named 'pickle'
+2017-02-10T21:37:34: [ERROR] Failed to scrape builtin modules (Exit Code: 1)
+2017-02-10T21:37:34: [ERROR] Analysis failed
+System.InvalidOperationException: Failed to scrape builtin modules
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Scrape>d__53.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<RunWorker>d__31.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Run>d__30.MoveNext()
+
+2017-02-10T21:37:53: Start analysis
+2017-02-10T21:37:53: [WARNING] Library was set explicitly - skipping path detection
+2017-02-10T21:37:53: IncludeModulesFromModulePath = win32com
+2017-02-10T21:37:53: Deleting 0 files
+2017-02-10T21:37:53: Scraping builtin modules
+2017-02-10T21:37:53: Command: C:\Project\Python\MyBlog\Blog\Blog\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" C:\Project\Python\MyBlog\Blog\Blog\env\.ptvs\ "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-02-10T21:37:54: [WARNING] Errors
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 113, in <module>
+    import cPickle as pickle
+ImportError: No module named 'cPickle'
+During handling of the above exception, another exception occurred:
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 115, in <module>
+    import pickle # Py3k
+ImportError: No module named 'pickle'
+2017-02-10T21:37:54: [ERROR] Failed to scrape builtin modules (Exit Code: 1)
+2017-02-10T21:37:54: [ERROR] Analysis failed
+System.InvalidOperationException: Failed to scrape builtin modules
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Scrape>d__53.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<RunWorker>d__31.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Run>d__30.MoveNext()
+
+2017-02-10T21:38:02: Start analysis
+2017-02-10T21:38:02: [WARNING] Library was set explicitly - skipping path detection
+2017-02-10T21:38:02: IncludeModulesFromModulePath = win32com
+2017-02-10T21:38:02: Deleting 0 files
+2017-02-10T21:38:02: Scraping builtin modules
+2017-02-10T21:38:02: Command: C:\Project\Python\MyBlog\Blog\Blog\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" C:\Project\Python\MyBlog\Blog\Blog\env\.ptvs\ "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-02-10T21:38:02: [WARNING] Errors
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 113, in <module>
+    import cPickle as pickle
+ImportError: No module named 'cPickle'
+During handling of the above exception, another exception occurred:
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 115, in <module>
+    import pickle # Py3k
+ImportError: No module named 'pickle'
+2017-02-10T21:38:02: [ERROR] Failed to scrape builtin modules (Exit Code: 1)
+2017-02-10T21:38:02: [ERROR] Analysis failed
+System.InvalidOperationException: Failed to scrape builtin modules
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Scrape>d__53.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<RunWorker>d__31.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Run>d__30.MoveNext()
+
+2017-02-10T21:38:10: Start analysis
+2017-02-10T21:38:10: [WARNING] Library was set explicitly - skipping path detection
+2017-02-10T21:38:10: IncludeModulesFromModulePath = win32com
+2017-02-10T21:38:10: Deleting 0 files
+2017-02-10T21:38:10: Scraping builtin modules
+2017-02-10T21:38:10: Command: C:\Project\Python\MyBlog\Blog\Blog\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" C:\Project\Python\MyBlog\Blog\Blog\env\.ptvs\ "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-02-10T21:38:10: [WARNING] Errors
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 113, in <module>
+    import cPickle as pickle
+ImportError: No module named 'cPickle'
+During handling of the above exception, another exception occurred:
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 115, in <module>
+    import pickle # Py3k
+ImportError: No module named 'pickle'
+2017-02-10T21:38:10: [ERROR] Failed to scrape builtin modules (Exit Code: 1)
+2017-02-10T21:38:10: [ERROR] Analysis failed
+System.InvalidOperationException: Failed to scrape builtin modules
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Scrape>d__53.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<RunWorker>d__31.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Run>d__30.MoveNext()
+
+2017-02-10T21:38:14: Start analysis
+2017-02-10T21:38:14: [WARNING] Library was set explicitly - skipping path detection
+2017-02-10T21:38:14: IncludeModulesFromModulePath = win32com
+2017-02-10T21:38:14: Deleting 0 files
+2017-02-10T21:38:14: Scraping builtin modules
+2017-02-10T21:38:14: Command: C:\Project\Python\MyBlog\Blog\Blog\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" C:\Project\Python\MyBlog\Blog\Blog\env\.ptvs\ "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-02-10T21:38:14: [WARNING] Errors
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 113, in <module>
+    import cPickle as pickle
+ImportError: No module named 'cPickle'
+During handling of the above exception, another exception occurred:
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 115, in <module>
+    import pickle # Py3k
+ImportError: No module named 'pickle'
+2017-02-10T21:38:14: [ERROR] Failed to scrape builtin modules (Exit Code: 1)
+2017-02-10T21:38:14: [ERROR] Analysis failed
+System.InvalidOperationException: Failed to scrape builtin modules
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Scrape>d__53.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<RunWorker>d__31.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Run>d__30.MoveNext()
+
+2017-02-10T21:39:39: Start analysis
+2017-02-10T21:39:39: [WARNING] Library was set explicitly - skipping path detection
+2017-02-10T21:39:39: IncludeModulesFromModulePath = win32com
+2017-02-10T21:39:39: Deleting 0 files
+2017-02-10T21:39:39: Scraping builtin modules
+2017-02-10T21:39:39: Command: C:\Project\Python\MyBlog\Blog\Blog\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" C:\Project\Python\MyBlog\Blog\Blog\env\.ptvs\ "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-02-10T21:39:40: [WARNING] Errors
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 113, in <module>
+    import cPickle as pickle
+ImportError: No module named 'cPickle'
+During handling of the above exception, another exception occurred:
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 115, in <module>
+    import pickle # Py3k
+ImportError: No module named 'pickle'
+2017-02-10T21:39:40: [ERROR] Failed to scrape builtin modules (Exit Code: 1)
+2017-02-10T21:39:40: [ERROR] Analysis failed
+System.InvalidOperationException: Failed to scrape builtin modules
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Scrape>d__53.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<RunWorker>d__31.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Run>d__30.MoveNext()
+
+2017-02-10T21:39:42: Start analysis
+2017-02-10T21:39:42: [WARNING] Library was set explicitly - skipping path detection
+2017-02-10T21:39:42: IncludeModulesFromModulePath = win32com
+2017-02-10T21:39:42: Deleting 0 files
+2017-02-10T21:39:42: Scraping builtin modules
+2017-02-10T21:39:42: Command: C:\Project\Python\MyBlog\Blog\Blog\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" C:\Project\Python\MyBlog\Blog\Blog\env\.ptvs\ "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-02-10T21:39:42: [WARNING] Errors
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 113, in <module>
+    import cPickle as pickle
+ImportError: No module named 'cPickle'
+During handling of the above exception, another exception occurred:
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 115, in <module>
+    import pickle # Py3k
+ImportError: No module named 'pickle'
+2017-02-10T21:39:42: [ERROR] Failed to scrape builtin modules (Exit Code: 1)
+2017-02-10T21:39:42: [ERROR] Analysis failed
+System.InvalidOperationException: Failed to scrape builtin modules
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Scrape>d__53.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<RunWorker>d__31.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Run>d__30.MoveNext()
+
+2017-02-10T21:42:59: Start analysis
+2017-02-10T21:42:59: [WARNING] Library was set explicitly - skipping path detection
+2017-02-10T21:42:59: IncludeModulesFromModulePath = win32com
+2017-02-10T21:43:00: Deleting 0 files
+2017-02-10T21:43:00: Scraping builtin modules
+2017-02-10T21:43:00: Command: C:\Project\Python\MyBlog\Blog\Blog\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" C:\Project\Python\MyBlog\Blog\Blog\env\.ptvs\ "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-02-10T21:43:00: [WARNING] Errors
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 113, in <module>
+    import cPickle as pickle
+ImportError: No module named 'cPickle'
+During handling of the above exception, another exception occurred:
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 115, in <module>
+    import pickle # Py3k
+ImportError: No module named 'pickle'
+2017-02-10T21:43:00: [ERROR] Failed to scrape builtin modules (Exit Code: 1)
+2017-02-10T21:43:00: [ERROR] Analysis failed
+System.InvalidOperationException: Failed to scrape builtin modules
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Scrape>d__53.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<RunWorker>d__31.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Run>d__30.MoveNext()
+
+2017-02-10T21:45:52: Start analysis
+2017-02-10T21:45:52: [WARNING] Library was set explicitly - skipping path detection
+2017-02-10T21:45:52: IncludeModulesFromModulePath = win32com
+2017-02-10T21:45:52: Deleting 0 files
+2017-02-10T21:45:52: Scraping builtin modules
+2017-02-10T21:45:52: Command: C:\Project\Python\MyBlog\Blog\Blog\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" C:\Project\Python\MyBlog\Blog\Blog\env\.ptvs\ "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-02-10T21:45:54: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2017-02-10T21:45:54: Scraped builtin modules
+2017-02-10T21:45:54: Scraping pymssql
+2017-02-10T21:45:54: Command: C:\Project\Python\MyBlog\Blog\Blog\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape pymssql C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages C:\Project\Python\MyBlog\Blog\Blog\env\.ptvs\pymssql
+2017-02-10T21:45:55: Scraping _mssql
+2017-02-10T21:45:55: Command: C:\Project\Python\MyBlog\Blog\Blog\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape _mssql C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages C:\Project\Python\MyBlog\Blog\Blog\env\.ptvs\_mssql
+2017-02-10T21:45:55: Output
+Treating type as data
+2017-02-10T21:45:55: [WARNING] Errors
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 385, in generate_member
+    return 'method', generate_builtin_function(obj, True)
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 270, in generate_builtin_function
+    function_table['overloads'] = BuiltinScraper.get_overloads(function, is_method)
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\BuiltinScraper.py", line 514, in get_overloads
+    extra_args,
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\BuiltinScraper.py", line 471, in get_overloads_from_doc_string
+    res = parse_doc_str(doc_str, mod, decl_mod, func_name, extra_args, obj_class)
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\BuiltinScraper.py", line 244, in parse_doc_str
+    args, ret_type, cur_token = parse_args(tokens, cur_token + 4, mod)
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\BuiltinScraper.py", line 381, in parse_args
+    annotation.insert(0, arg.pop())
+IndexError: pop from empty list
+2017-02-10T21:45:55: Scraped 2 files
+2017-02-10T21:45:55: astropy.CallDepth = 0
+2017-02-10T21:45:55: matplotlib.CallDepth = 3
+2017-02-10T21:45:55: pandas.CallDepth = 0
+2017-02-10T21:45:55: sympy.CallDepth = 0
+2017-02-10T21:45:55: Start group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\" with 178 files
+2017-02-10T21:45:55: Parsing "abc" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\abc.py")
+2017-02-10T21:45:55: Parsing "base64" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\base64.py")
+2017-02-10T21:45:55: Parsing "bisect" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\bisect.py")
+2017-02-10T21:45:55: Parsing "codecs" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\codecs.py")
+2017-02-10T21:45:55: Parsing "copy" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\copy.py")
+2017-02-10T21:45:55: Parsing "copyreg" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\copyreg.py")
+2017-02-10T21:45:55: Parsing "fnmatch" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\fnmatch.py")
+2017-02-10T21:45:55: Parsing "functools" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\functools.py")
+2017-02-10T21:45:55: Parsing "genericpath" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\genericpath.py")
+2017-02-10T21:45:55: Parsing "hashlib" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\hashlib.py")
+2017-02-10T21:45:55: Parsing "heapq" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\heapq.py")
+2017-02-10T21:45:55: Parsing "hmac" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\hmac.py")
+2017-02-10T21:45:55: Parsing "imp" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\imp.py")
+2017-02-10T21:45:55: Parsing "io" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\io.py")
+2017-02-10T21:45:55: Parsing "keyword" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\keyword.py")
+2017-02-10T21:45:55: Parsing "linecache" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\linecache.py")
+2017-02-10T21:45:55: Parsing "locale" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\locale.py")
+2017-02-10T21:45:55: Parsing "ntpath" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\ntpath.py")
+2017-02-10T21:45:55: Parsing "operator" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\operator.py")
+2017-02-10T21:45:55: Parsing "os" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\os.py")
+2017-02-10T21:45:55: Parsing "posixpath" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\posixpath.py")
+2017-02-10T21:45:55: Parsing "random" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\random.py")
+2017-02-10T21:45:55: Parsing "re" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\re.py")
+2017-02-10T21:45:55: Parsing "reprlib" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\reprlib.py")
+2017-02-10T21:45:55: Parsing "rlcompleter" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\rlcompleter.py")
+2017-02-10T21:45:55: Parsing "shutil" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\shutil.py")
+2017-02-10T21:45:55: Parsing "site" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site.py")
+2017-02-10T21:45:55: Parsing "sre_compile" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\sre_compile.py")
+2017-02-10T21:45:55: Parsing "sre_constants" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\sre_constants.py")
+2017-02-10T21:45:55: Parsing "sre_parse" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\sre_parse.py")
+2017-02-10T21:45:55: Parsing "stat" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\stat.py")
+2017-02-10T21:45:56: Parsing "struct" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\struct.py")
+2017-02-10T21:45:56: Parsing "tarfile" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\tarfile.py")
+2017-02-10T21:45:56: Parsing "tempfile" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\tempfile.py")
+2017-02-10T21:45:56: Parsing "token" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\token.py")
+2017-02-10T21:45:56: Parsing "tokenize" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\tokenize.py")
+2017-02-10T21:45:56: Parsing "types" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\types.py")
+2017-02-10T21:45:56: Parsing "warnings" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\warnings.py")
+2017-02-10T21:45:56: Parsing "weakref" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\weakref.py")
+2017-02-10T21:45:56: Parsing "_bootlocale" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\_bootlocale.py")
+2017-02-10T21:45:56: Parsing "_collections_abc" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\_collections_abc.py")
+2017-02-10T21:45:56: Parsing "_dummy_thread" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\_dummy_thread.py")
+2017-02-10T21:45:56: Parsing "_weakrefset" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\_weakrefset.py")
+2017-02-10T21:45:56: Parsing "__future__" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\__future__.py")
+2017-02-10T21:45:56: Parsing "collections.abc" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\collections\abc.py")
+2017-02-10T21:45:56: Parsing "collections" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\collections\__init__.py")
+2017-02-10T21:45:56: Parsing "collections.__main__" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\collections\__main__.py")
+2017-02-10T21:45:56: Parsing "distutils" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\distutils\__init__.py")
+2017-02-10T21:45:56: Parsing "encodings.aliases" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\aliases.py")
+2017-02-10T21:45:56: Parsing "encodings.ascii" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\ascii.py")
+2017-02-10T21:45:56: Parsing "encodings.base64_codec" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\base64_codec.py")
+2017-02-10T21:45:56: Parsing "encodings.big5" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\big5.py")
+2017-02-10T21:45:56: Parsing "encodings.big5hkscs" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\big5hkscs.py")
+2017-02-10T21:45:56: Parsing "encodings.bz2_codec" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\bz2_codec.py")
+2017-02-10T21:45:56: Parsing "encodings.charmap" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\charmap.py")
+2017-02-10T21:45:56: Parsing "encodings.cp037" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp037.py")
+2017-02-10T21:45:56: Parsing "encodings.cp1006" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp1006.py")
+2017-02-10T21:45:56: Parsing "encodings.cp1026" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp1026.py")
+2017-02-10T21:45:56: Parsing "encodings.cp1125" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp1125.py")
+2017-02-10T21:45:56: Parsing "encodings.cp1140" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp1140.py")
+2017-02-10T21:45:56: Parsing "encodings.cp1250" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp1250.py")
+2017-02-10T21:45:56: Parsing "encodings.cp1251" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp1251.py")
+2017-02-10T21:45:56: Parsing "encodings.cp1252" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp1252.py")
+2017-02-10T21:45:56: Parsing "encodings.cp1253" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp1253.py")
+2017-02-10T21:45:56: Parsing "encodings.cp1254" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp1254.py")
+2017-02-10T21:45:56: Parsing "encodings.cp1255" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp1255.py")
+2017-02-10T21:45:56: Parsing "encodings.cp1256" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp1256.py")
+2017-02-10T21:45:56: Parsing "encodings.cp1257" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp1257.py")
+2017-02-10T21:45:56: Parsing "encodings.cp1258" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp1258.py")
+2017-02-10T21:45:56: Parsing "encodings.cp273" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp273.py")
+2017-02-10T21:45:56: Parsing "encodings.cp424" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp424.py")
+2017-02-10T21:45:56: Parsing "encodings.cp437" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp437.py")
+2017-02-10T21:45:56: Parsing "encodings.cp500" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp500.py")
+2017-02-10T21:45:56: Parsing "encodings.cp65001" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp65001.py")
+2017-02-10T21:45:56: Parsing "encodings.cp720" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp720.py")
+2017-02-10T21:45:56: Parsing "encodings.cp737" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp737.py")
+2017-02-10T21:45:56: Parsing "encodings.cp775" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp775.py")
+2017-02-10T21:45:56: Parsing "encodings.cp850" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp850.py")
+2017-02-10T21:45:56: Parsing "encodings.cp852" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp852.py")
+2017-02-10T21:45:56: Parsing "encodings.cp855" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp855.py")
+2017-02-10T21:45:56: Parsing "encodings.cp856" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp856.py")
+2017-02-10T21:45:56: Parsing "encodings.cp857" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp857.py")
+2017-02-10T21:45:56: Parsing "encodings.cp858" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp858.py")
+2017-02-10T21:45:56: Parsing "encodings.cp860" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp860.py")
+2017-02-10T21:45:56: Parsing "encodings.cp861" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp861.py")
+2017-02-10T21:45:56: Parsing "encodings.cp862" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp862.py")
+2017-02-10T21:45:56: Parsing "encodings.cp863" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp863.py")
+2017-02-10T21:45:56: Parsing "encodings.cp864" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp864.py")
+2017-02-10T21:45:56: Parsing "encodings.cp865" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp865.py")
+2017-02-10T21:45:56: Parsing "encodings.cp866" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp866.py")
+2017-02-10T21:45:56: Parsing "encodings.cp869" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp869.py")
+2017-02-10T21:45:56: Parsing "encodings.cp874" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp874.py")
+2017-02-10T21:45:56: Parsing "encodings.cp875" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp875.py")
+2017-02-10T21:45:56: Parsing "encodings.cp932" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp932.py")
+2017-02-10T21:45:56: Parsing "encodings.cp949" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp949.py")
+2017-02-10T21:45:56: Parsing "encodings.cp950" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\cp950.py")
+2017-02-10T21:45:56: Parsing "encodings.euc_jisx0213" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\euc_jisx0213.py")
+2017-02-10T21:45:56: Parsing "encodings.euc_jis_2004" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\euc_jis_2004.py")
+2017-02-10T21:45:56: Parsing "encodings.euc_jp" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\euc_jp.py")
+2017-02-10T21:45:56: Parsing "encodings.euc_kr" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\euc_kr.py")
+2017-02-10T21:45:56: Parsing "encodings.gb18030" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\gb18030.py")
+2017-02-10T21:45:56: Parsing "encodings.gb2312" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\gb2312.py")
+2017-02-10T21:45:56: Parsing "encodings.gbk" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\gbk.py")
+2017-02-10T21:45:56: Parsing "encodings.hex_codec" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\hex_codec.py")
+2017-02-10T21:45:56: Parsing "encodings.hp_roman8" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\hp_roman8.py")
+2017-02-10T21:45:56: Parsing "encodings.hz" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\hz.py")
+2017-02-10T21:45:56: Parsing "encodings.idna" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\idna.py")
+2017-02-10T21:45:56: Parsing "encodings.iso2022_jp" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\iso2022_jp.py")
+2017-02-10T21:45:56: Parsing "encodings.iso2022_jp_1" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\iso2022_jp_1.py")
+2017-02-10T21:45:56: Parsing "encodings.iso2022_jp_2" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\iso2022_jp_2.py")
+2017-02-10T21:45:56: Parsing "encodings.iso2022_jp_2004" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\iso2022_jp_2004.py")
+2017-02-10T21:45:56: Parsing "encodings.iso2022_jp_3" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\iso2022_jp_3.py")
+2017-02-10T21:45:56: Parsing "encodings.iso2022_jp_ext" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\iso2022_jp_ext.py")
+2017-02-10T21:45:56: Parsing "encodings.iso2022_kr" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\iso2022_kr.py")
+2017-02-10T21:45:56: Parsing "encodings.iso8859_1" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\iso8859_1.py")
+2017-02-10T21:45:56: Parsing "encodings.iso8859_10" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\iso8859_10.py")
+2017-02-10T21:45:56: Parsing "encodings.iso8859_11" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\iso8859_11.py")
+2017-02-10T21:45:56: Parsing "encodings.iso8859_13" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\iso8859_13.py")
+2017-02-10T21:45:56: Parsing "encodings.iso8859_14" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\iso8859_14.py")
+2017-02-10T21:45:56: Parsing "encodings.iso8859_15" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\iso8859_15.py")
+2017-02-10T21:45:56: Parsing "encodings.iso8859_16" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\iso8859_16.py")
+2017-02-10T21:45:56: Parsing "encodings.iso8859_2" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\iso8859_2.py")
+2017-02-10T21:45:56: Parsing "encodings.iso8859_3" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\iso8859_3.py")
+2017-02-10T21:45:56: Parsing "encodings.iso8859_4" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\iso8859_4.py")
+2017-02-10T21:45:56: Parsing "encodings.iso8859_5" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\iso8859_5.py")
+2017-02-10T21:45:56: Parsing "encodings.iso8859_6" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\iso8859_6.py")
+2017-02-10T21:45:56: Parsing "encodings.iso8859_7" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\iso8859_7.py")
+2017-02-10T21:45:56: Parsing "encodings.iso8859_8" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\iso8859_8.py")
+2017-02-10T21:45:56: Parsing "encodings.iso8859_9" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\iso8859_9.py")
+2017-02-10T21:45:56: Parsing "encodings.johab" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\johab.py")
+2017-02-10T21:45:56: Parsing "encodings.koi8_r" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\koi8_r.py")
+2017-02-10T21:45:56: Parsing "encodings.koi8_t" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\koi8_t.py")
+2017-02-10T21:45:56: Parsing "encodings.koi8_u" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\koi8_u.py")
+2017-02-10T21:45:56: Parsing "encodings.kz1048" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\kz1048.py")
+2017-02-10T21:45:56: Parsing "encodings.latin_1" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\latin_1.py")
+2017-02-10T21:45:56: Parsing "encodings.mac_arabic" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\mac_arabic.py")
+2017-02-10T21:45:56: Parsing "encodings.mac_centeuro" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\mac_centeuro.py")
+2017-02-10T21:45:56: Parsing "encodings.mac_croatian" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\mac_croatian.py")
+2017-02-10T21:45:56: Parsing "encodings.mac_cyrillic" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\mac_cyrillic.py")
+2017-02-10T21:45:56: Parsing "encodings.mac_farsi" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\mac_farsi.py")
+2017-02-10T21:45:56: Parsing "encodings.mac_greek" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\mac_greek.py")
+2017-02-10T21:45:56: Parsing "encodings.mac_iceland" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\mac_iceland.py")
+2017-02-10T21:45:56: Parsing "encodings.mac_latin2" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\mac_latin2.py")
+2017-02-10T21:45:56: Parsing "encodings.mac_roman" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\mac_roman.py")
+2017-02-10T21:45:56: Parsing "encodings.mac_romanian" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\mac_romanian.py")
+2017-02-10T21:45:56: Parsing "encodings.mac_turkish" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\mac_turkish.py")
+2017-02-10T21:45:56: Parsing "encodings.mbcs" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\mbcs.py")
+2017-02-10T21:45:56: Parsing "encodings.palmos" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\palmos.py")
+2017-02-10T21:45:56: Parsing "encodings.ptcp154" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\ptcp154.py")
+2017-02-10T21:45:56: Parsing "encodings.punycode" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\punycode.py")
+2017-02-10T21:45:56: Parsing "encodings.quopri_codec" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\quopri_codec.py")
+2017-02-10T21:45:56: Parsing "encodings.raw_unicode_escape" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\raw_unicode_escape.py")
+2017-02-10T21:45:56: Parsing "encodings.rot_13" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\rot_13.py")
+2017-02-10T21:45:56: Parsing "encodings.shift_jis" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\shift_jis.py")
+2017-02-10T21:45:56: Parsing "encodings.shift_jisx0213" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\shift_jisx0213.py")
+2017-02-10T21:45:56: Parsing "encodings.shift_jis_2004" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\shift_jis_2004.py")
+2017-02-10T21:45:56: Parsing "encodings.tis_620" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\tis_620.py")
+2017-02-10T21:45:56: Parsing "encodings.undefined" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\undefined.py")
+2017-02-10T21:45:56: Parsing "encodings.unicode_escape" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\unicode_escape.py")
+2017-02-10T21:45:56: Parsing "encodings.unicode_internal" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\unicode_internal.py")
+2017-02-10T21:45:56: Parsing "encodings.utf_16" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\utf_16.py")
+2017-02-10T21:45:56: Parsing "encodings.utf_16_be" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\utf_16_be.py")
+2017-02-10T21:45:56: Parsing "encodings.utf_16_le" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\utf_16_le.py")
+2017-02-10T21:45:56: Parsing "encodings.utf_32" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\utf_32.py")
+2017-02-10T21:45:56: Parsing "encodings.utf_32_be" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\utf_32_be.py")
+2017-02-10T21:45:56: Parsing "encodings.utf_32_le" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\utf_32_le.py")
+2017-02-10T21:45:56: Parsing "encodings.utf_7" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\utf_7.py")
+2017-02-10T21:45:56: Parsing "encodings.utf_8" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\utf_8.py")
+2017-02-10T21:45:56: Parsing "encodings.utf_8_sig" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\utf_8_sig.py")
+2017-02-10T21:45:56: Parsing "encodings.uu_codec" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\uu_codec.py")
+2017-02-10T21:45:56: Parsing "encodings.zlib_codec" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\zlib_codec.py")
+2017-02-10T21:45:56: Parsing "encodings" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\encodings\__init__.py")
+2017-02-10T21:45:56: Parsing "importlib.abc" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\importlib\abc.py")
+2017-02-10T21:45:56: Parsing "importlib.machinery" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\importlib\machinery.py")
+2017-02-10T21:45:56: Parsing "importlib.util" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\importlib\util.py")
+2017-02-10T21:45:56: Parsing "importlib._bootstrap" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\importlib\_bootstrap.py")
+2017-02-10T21:45:56: Parsing "importlib._bootstrap_external" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\importlib\_bootstrap_external.py")
+2017-02-10T21:45:56: Parsing "importlib" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\importlib\__init__.py")
+2017-02-10T21:45:56: Parsing complete
+2017-02-10T21:45:56: Analyzing "abc"
+2017-02-10T21:45:57: Analyzing "base64"
+2017-02-10T21:45:57: Analyzing "bisect"
+2017-02-10T21:45:57: Analyzing "codecs"
+2017-02-10T21:45:57: Analyzing "copy"
+2017-02-10T21:45:57: Analyzing "copyreg"
+2017-02-10T21:45:57: Analyzing "fnmatch"
+2017-02-10T21:45:57: Analyzing "functools"
+2017-02-10T21:45:57: Analyzing "genericpath"
+2017-02-10T21:45:57: Analyzing "hashlib"
+2017-02-10T21:45:57: Analyzing "heapq"
+2017-02-10T21:45:57: Analyzing "hmac"
+2017-02-10T21:45:57: Analyzing "imp"
+2017-02-10T21:45:57: Analyzing "io"
+2017-02-10T21:45:57: Analyzing "keyword"
+2017-02-10T21:45:57: Analyzing "linecache"
+2017-02-10T21:45:57: Analyzing "locale"
+2017-02-10T21:45:57: Analyzing "ntpath"
+2017-02-10T21:45:57: Analyzing "operator"
+2017-02-10T21:45:57: Analyzing "os"
+2017-02-10T21:45:57: Analyzing "posixpath"
+2017-02-10T21:45:57: Analyzing "random"
+2017-02-10T21:45:57: Analyzing "re"
+2017-02-10T21:45:57: Analyzing "reprlib"
+2017-02-10T21:45:57: Analyzing "rlcompleter"
+2017-02-10T21:45:57: Analyzing "shutil"
+2017-02-10T21:45:57: Analyzing "site"
+2017-02-10T21:45:57: Analyzing "sre_compile"
+2017-02-10T21:45:57: Analyzing "sre_constants"
+2017-02-10T21:45:57: Analyzing "sre_parse"
+2017-02-10T21:45:57: Analyzing "stat"
+2017-02-10T21:45:57: Analyzing "struct"
+2017-02-10T21:45:57: Analyzing "tarfile"
+2017-02-10T21:45:57: Analyzing "tempfile"
+2017-02-10T21:45:57: Analyzing "token"
+2017-02-10T21:45:57: Analyzing "tokenize"
+2017-02-10T21:45:57: Analyzing "types"
+2017-02-10T21:45:57: Analyzing "warnings"
+2017-02-10T21:45:57: Analyzing "weakref"
+2017-02-10T21:45:57: Analyzing "_bootlocale"
+2017-02-10T21:45:57: Analyzing "_collections_abc"
+2017-02-10T21:45:57: Analyzing "_dummy_thread"
+2017-02-10T21:45:57: Analyzing "_weakrefset"
+2017-02-10T21:45:57: Analyzing "__future__"
+2017-02-10T21:45:57: Analyzing "collections.abc"
+2017-02-10T21:45:57: Analyzing "collections"
+2017-02-10T21:45:57: Analyzing "collections.__main__"
+2017-02-10T21:45:57: Analyzing "distutils"
+2017-02-10T21:45:57: Analyzing "encodings.aliases"
+2017-02-10T21:45:57: Analyzing "encodings.ascii"
+2017-02-10T21:45:57: Analyzing "encodings.base64_codec"
+2017-02-10T21:45:57: Analyzing "encodings.big5"
+2017-02-10T21:45:57: Analyzing "encodings.big5hkscs"
+2017-02-10T21:45:57: Analyzing "encodings.bz2_codec"
+2017-02-10T21:45:57: Analyzing "encodings.charmap"
+2017-02-10T21:45:57: Analyzing "encodings.cp037"
+2017-02-10T21:45:57: Analyzing "encodings.cp1006"
+2017-02-10T21:45:57: Analyzing "encodings.cp1026"
+2017-02-10T21:45:57: Analyzing "encodings.cp1125"
+2017-02-10T21:45:57: Analyzing "encodings.cp1140"
+2017-02-10T21:45:57: Analyzing "encodings.cp1250"
+2017-02-10T21:45:57: Analyzing "encodings.cp1251"
+2017-02-10T21:45:57: Analyzing "encodings.cp1252"
+2017-02-10T21:45:57: Analyzing "encodings.cp1253"
+2017-02-10T21:45:57: Analyzing "encodings.cp1254"
+2017-02-10T21:45:57: Analyzing "encodings.cp1255"
+2017-02-10T21:45:57: Analyzing "encodings.cp1256"
+2017-02-10T21:45:57: Analyzing "encodings.cp1257"
+2017-02-10T21:45:57: Analyzing "encodings.cp1258"
+2017-02-10T21:45:57: Analyzing "encodings.cp273"
+2017-02-10T21:45:57: Analyzing "encodings.cp424"
+2017-02-10T21:45:57: Analyzing "encodings.cp437"
+2017-02-10T21:45:57: Analyzing "encodings.cp500"
+2017-02-10T21:45:57: Analyzing "encodings.cp65001"
+2017-02-10T21:45:57: Analyzing "encodings.cp720"
+2017-02-10T21:45:57: Analyzing "encodings.cp737"
+2017-02-10T21:45:57: Analyzing "encodings.cp775"
+2017-02-10T21:45:57: Analyzing "encodings.cp850"
+2017-02-10T21:45:57: Analyzing "encodings.cp852"
+2017-02-10T21:45:57: Analyzing "encodings.cp855"
+2017-02-10T21:45:57: Analyzing "encodings.cp856"
+2017-02-10T21:45:57: Analyzing "encodings.cp857"
+2017-02-10T21:45:57: Analyzing "encodings.cp858"
+2017-02-10T21:45:57: Analyzing "encodings.cp860"
+2017-02-10T21:45:57: Analyzing "encodings.cp861"
+2017-02-10T21:45:57: Analyzing "encodings.cp862"
+2017-02-10T21:45:57: Analyzing "encodings.cp863"
+2017-02-10T21:45:57: Analyzing "encodings.cp864"
+2017-02-10T21:45:57: Analyzing "encodings.cp865"
+2017-02-10T21:45:57: Analyzing "encodings.cp866"
+2017-02-10T21:45:57: Analyzing "encodings.cp869"
+2017-02-10T21:45:57: Analyzing "encodings.cp874"
+2017-02-10T21:45:57: Analyzing "encodings.cp875"
+2017-02-10T21:45:57: Analyzing "encodings.cp932"
+2017-02-10T21:45:57: Analyzing "encodings.cp949"
+2017-02-10T21:45:57: Analyzing "encodings.cp950"
+2017-02-10T21:45:57: Analyzing "encodings.euc_jisx0213"
+2017-02-10T21:45:57: Analyzing "encodings.euc_jis_2004"
+2017-02-10T21:45:57: Analyzing "encodings.euc_jp"
+2017-02-10T21:45:57: Analyzing "encodings.euc_kr"
+2017-02-10T21:45:57: Analyzing "encodings.gb18030"
+2017-02-10T21:45:57: Analyzing "encodings.gb2312"
+2017-02-10T21:45:57: Analyzing "encodings.gbk"
+2017-02-10T21:45:57: Analyzing "encodings.hex_codec"
+2017-02-10T21:45:57: Analyzing "encodings.hp_roman8"
+2017-02-10T21:45:57: Analyzing "encodings.hz"
+2017-02-10T21:45:57: Analyzing "encodings.idna"
+2017-02-10T21:45:57: Analyzing "encodings.iso2022_jp"
+2017-02-10T21:45:57: Analyzing "encodings.iso2022_jp_1"
+2017-02-10T21:45:57: Analyzing "encodings.iso2022_jp_2"
+2017-02-10T21:45:57: Analyzing "encodings.iso2022_jp_2004"
+2017-02-10T21:45:57: Analyzing "encodings.iso2022_jp_3"
+2017-02-10T21:45:57: Analyzing "encodings.iso2022_jp_ext"
+2017-02-10T21:45:57: Analyzing "encodings.iso2022_kr"
+2017-02-10T21:45:57: Analyzing "encodings.iso8859_1"
+2017-02-10T21:45:57: Analyzing "encodings.iso8859_10"
+2017-02-10T21:45:57: Analyzing "encodings.iso8859_11"
+2017-02-10T21:45:57: Analyzing "encodings.iso8859_13"
+2017-02-10T21:45:57: Analyzing "encodings.iso8859_14"
+2017-02-10T21:45:57: Analyzing "encodings.iso8859_15"
+2017-02-10T21:45:57: Analyzing "encodings.iso8859_16"
+2017-02-10T21:45:57: Analyzing "encodings.iso8859_2"
+2017-02-10T21:45:57: Analyzing "encodings.iso8859_3"
+2017-02-10T21:45:57: Analyzing "encodings.iso8859_4"
+2017-02-10T21:45:57: Analyzing "encodings.iso8859_5"
+2017-02-10T21:45:57: Analyzing "encodings.iso8859_6"
+2017-02-10T21:45:57: Analyzing "encodings.iso8859_7"
+2017-02-10T21:45:57: Analyzing "encodings.iso8859_8"
+2017-02-10T21:45:57: Analyzing "encodings.iso8859_9"
+2017-02-10T21:45:57: Analyzing "encodings.johab"
+2017-02-10T21:45:57: Analyzing "encodings.koi8_r"
+2017-02-10T21:45:57: Analyzing "encodings.koi8_t"
+2017-02-10T21:45:57: Analyzing "encodings.koi8_u"
+2017-02-10T21:45:57: Analyzing "encodings.kz1048"
+2017-02-10T21:45:57: Analyzing "encodings.latin_1"
+2017-02-10T21:45:57: Analyzing "encodings.mac_arabic"
+2017-02-10T21:45:57: Analyzing "encodings.mac_centeuro"
+2017-02-10T21:45:57: Analyzing "encodings.mac_croatian"
+2017-02-10T21:45:57: Analyzing "encodings.mac_cyrillic"
+2017-02-10T21:45:57: Analyzing "encodings.mac_farsi"
+2017-02-10T21:45:57: Analyzing "encodings.mac_greek"
+2017-02-10T21:45:57: Analyzing "encodings.mac_iceland"
+2017-02-10T21:45:57: Analyzing "encodings.mac_latin2"
+2017-02-10T21:45:57: Analyzing "encodings.mac_roman"
+2017-02-10T21:45:57: Analyzing "encodings.mac_romanian"
+2017-02-10T21:45:57: Analyzing "encodings.mac_turkish"
+2017-02-10T21:45:57: Analyzing "encodings.mbcs"
+2017-02-10T21:45:57: Analyzing "encodings.palmos"
+2017-02-10T21:45:57: Analyzing "encodings.ptcp154"
+2017-02-10T21:45:57: Analyzing "encodings.punycode"
+2017-02-10T21:45:57: Analyzing "encodings.quopri_codec"
+2017-02-10T21:45:57: Analyzing "encodings.raw_unicode_escape"
+2017-02-10T21:45:57: Analyzing "encodings.rot_13"
+2017-02-10T21:45:57: Analyzing "encodings.shift_jis"
+2017-02-10T21:45:57: Analyzing "encodings.shift_jisx0213"
+2017-02-10T21:45:57: Analyzing "encodings.shift_jis_2004"
+2017-02-10T21:45:57: Analyzing "encodings.tis_620"
+2017-02-10T21:45:57: Analyzing "encodings.undefined"
+2017-02-10T21:45:57: Analyzing "encodings.unicode_escape"
+2017-02-10T21:45:57: Analyzing "encodings.unicode_internal"
+2017-02-10T21:45:57: Analyzing "encodings.utf_16"
+2017-02-10T21:45:57: Analyzing "encodings.utf_16_be"
+2017-02-10T21:45:57: Analyzing "encodings.utf_16_le"
+2017-02-10T21:45:57: Analyzing "encodings.utf_32"
+2017-02-10T21:45:57: Analyzing "encodings.utf_32_be"
+2017-02-10T21:45:57: Analyzing "encodings.utf_32_le"
+2017-02-10T21:45:57: Analyzing "encodings.utf_7"
+2017-02-10T21:45:57: Analyzing "encodings.utf_8"
+2017-02-10T21:45:57: Analyzing "encodings.utf_8_sig"
+2017-02-10T21:45:57: Analyzing "encodings.uu_codec"
+2017-02-10T21:45:57: Analyzing "encodings.zlib_codec"
+2017-02-10T21:45:57: Analyzing "encodings"
+2017-02-10T21:45:57: Analyzing "importlib.abc"
+2017-02-10T21:45:57: Analyzing "importlib.machinery"
+2017-02-10T21:45:57: Analyzing "importlib.util"
+2017-02-10T21:45:57: Analyzing "importlib._bootstrap"
+2017-02-10T21:45:57: Analyzing "importlib._bootstrap_external"
+2017-02-10T21:45:57: Analyzing "importlib"
+2017-02-10T21:45:57: Starting analysis of 178 modules
+2017-02-10T21:46:02: Analysis complete
+2017-02-10T21:46:02: Saving group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\"
+2017-02-10T21:46:04: End of group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\"
+2017-02-10T21:46:04: Start group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages" with 5 files
+2017-02-10T21:46:04: Parsing "appdirs" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\appdirs.py")
+2017-02-10T21:46:04: Parsing "easy_install" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\easy_install.py")
+2017-02-10T21:46:04: Parsing "itsdangerous" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\itsdangerous.py")
+2017-02-10T21:46:04: Parsing "pyparsing" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pyparsing.py")
+2017-02-10T21:46:05: Parsing "six" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\six.py")
+2017-02-10T21:46:05: Parsing complete
+2017-02-10T21:46:05: Analyzing "appdirs"
+2017-02-10T21:46:05: Analyzing "easy_install"
+2017-02-10T21:46:05: Analyzing "itsdangerous"
+2017-02-10T21:46:05: Analyzing "pyparsing"
+2017-02-10T21:46:05: Analyzing "six"
+2017-02-10T21:46:05: Starting analysis of 5 modules
+2017-02-10T21:46:08: Analysis complete
+2017-02-10T21:46:08: Saving group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages"
+2017-02-10T21:46:08: End of group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages"
+2017-02-10T21:46:08: Start group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\click" with 17 files
+2017-02-10T21:46:08: Parsing "click.core" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\click\core.py")
+2017-02-10T21:46:08: Parsing "click.decorators" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\click\decorators.py")
+2017-02-10T21:46:08: Parsing "click.exceptions" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\click\exceptions.py")
+2017-02-10T21:46:08: Parsing "click.formatting" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\click\formatting.py")
+2017-02-10T21:46:08: Parsing "click.globals" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\click\globals.py")
+2017-02-10T21:46:08: Parsing "click.parser" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\click\parser.py")
+2017-02-10T21:46:08: Parsing "click.termui" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\click\termui.py")
+2017-02-10T21:46:08: Parsing "click.testing" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\click\testing.py")
+2017-02-10T21:46:08: Parsing "click.types" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\click\types.py")
+2017-02-10T21:46:08: Parsing "click.utils" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\click\utils.py")
+2017-02-10T21:46:08: Parsing "click._bashcomplete" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\click\_bashcomplete.py")
+2017-02-10T21:46:09: Parsing "click._compat" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\click\_compat.py")
+2017-02-10T21:46:09: Parsing "click._termui_impl" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\click\_termui_impl.py")
+2017-02-10T21:46:09: Parsing "click._textwrap" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\click\_textwrap.py")
+2017-02-10T21:46:09: Parsing "click._unicodefun" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\click\_unicodefun.py")
+2017-02-10T21:46:09: Parsing "click._winconsole" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\click\_winconsole.py")
+2017-02-10T21:46:09: Parsing "click" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\click\__init__.py")
+2017-02-10T21:46:09: Parsing complete
+2017-02-10T21:46:09: Analyzing "click.core"
+2017-02-10T21:46:09: Analyzing "click.decorators"
+2017-02-10T21:46:09: Analyzing "click.exceptions"
+2017-02-10T21:46:09: Analyzing "click.formatting"
+2017-02-10T21:46:09: Analyzing "click.globals"
+2017-02-10T21:46:09: Analyzing "click.parser"
+2017-02-10T21:46:09: Analyzing "click.termui"
+2017-02-10T21:46:09: Analyzing "click.testing"
+2017-02-10T21:46:09: Analyzing "click.types"
+2017-02-10T21:46:09: Analyzing "click.utils"
+2017-02-10T21:46:09: Analyzing "click._bashcomplete"
+2017-02-10T21:46:09: Analyzing "click._compat"
+2017-02-10T21:46:09: Analyzing "click._termui_impl"
+2017-02-10T21:46:09: Analyzing "click._textwrap"
+2017-02-10T21:46:09: Analyzing "click._unicodefun"
+2017-02-10T21:46:09: Analyzing "click._winconsole"
+2017-02-10T21:46:09: Analyzing "click"
+2017-02-10T21:46:09: Starting analysis of 17 modules
+2017-02-10T21:46:12: Analysis complete
+2017-02-10T21:46:12: Saving group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\click"
+2017-02-10T21:46:12: End of group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\click"
+2017-02-10T21:46:12: Start group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\flask" with 21 files
+2017-02-10T21:46:12: Parsing "flask.app" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\flask\app.py")
+2017-02-10T21:46:12: Parsing "flask.blueprints" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\flask\blueprints.py")
+2017-02-10T21:46:12: Parsing "flask.cli" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\flask\cli.py")
+2017-02-10T21:46:12: Parsing "flask.config" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\flask\config.py")
+2017-02-10T21:46:12: Parsing "flask.ctx" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\flask\ctx.py")
+2017-02-10T21:46:12: Parsing "flask.debughelpers" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\flask\debughelpers.py")
+2017-02-10T21:46:12: Parsing "flask.exthook" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\flask\exthook.py")
+2017-02-10T21:46:12: Parsing "flask.globals" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\flask\globals.py")
+2017-02-10T21:46:12: Parsing "flask.helpers" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\flask\helpers.py")
+2017-02-10T21:46:12: Parsing "flask.json" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\flask\json.py")
+2017-02-10T21:46:12: Parsing "flask.logging" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\flask\logging.py")
+2017-02-10T21:46:12: Parsing "flask.sessions" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\flask\sessions.py")
+2017-02-10T21:46:12: Parsing "flask.signals" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\flask\signals.py")
+2017-02-10T21:46:12: Parsing "flask.templating" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\flask\templating.py")
+2017-02-10T21:46:12: Parsing "flask.testing" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\flask\testing.py")
+2017-02-10T21:46:12: Parsing "flask.views" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\flask\views.py")
+2017-02-10T21:46:12: Parsing "flask.wrappers" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\flask\wrappers.py")
+2017-02-10T21:46:12: Parsing "flask._compat" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\flask\_compat.py")
+2017-02-10T21:46:12: Parsing "flask" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\flask\__init__.py")
+2017-02-10T21:46:12: Parsing "flask.__main__" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\flask\__main__.py")
+2017-02-10T21:46:12: Parsing "flask.ext" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\flask\ext\__init__.py")
+2017-02-10T21:46:12: Parsing complete
+2017-02-10T21:46:12: Analyzing "flask.app"
+2017-02-10T21:46:12: Analyzing "flask.blueprints"
+2017-02-10T21:46:12: Analyzing "flask.cli"
+2017-02-10T21:46:12: Analyzing "flask.config"
+2017-02-10T21:46:12: Analyzing "flask.ctx"
+2017-02-10T21:46:12: Analyzing "flask.debughelpers"
+2017-02-10T21:46:12: Analyzing "flask.exthook"
+2017-02-10T21:46:12: Analyzing "flask.globals"
+2017-02-10T21:46:12: Analyzing "flask.helpers"
+2017-02-10T21:46:12: Analyzing "flask.json"
+2017-02-10T21:46:12: Analyzing "flask.logging"
+2017-02-10T21:46:12: Analyzing "flask.sessions"
+2017-02-10T21:46:12: Analyzing "flask.signals"
+2017-02-10T21:46:12: Analyzing "flask.templating"
+2017-02-10T21:46:12: Analyzing "flask.testing"
+2017-02-10T21:46:12: Analyzing "flask.views"
+2017-02-10T21:46:12: Analyzing "flask.wrappers"
+2017-02-10T21:46:12: Analyzing "flask._compat"
+2017-02-10T21:46:12: Analyzing "flask"
+2017-02-10T21:46:12: Analyzing "flask.__main__"
+2017-02-10T21:46:12: Analyzing "flask.ext"
+2017-02-10T21:46:12: Starting analysis of 21 modules
+2017-02-10T21:46:14: Analysis complete
+2017-02-10T21:46:14: Saving group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\flask"
+2017-02-10T21:46:15: End of group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\flask"
+2017-02-10T21:46:15: Start group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2" with 26 files
+2017-02-10T21:46:15: Parsing "jinja2.asyncfilters" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\asyncfilters.py")
+2017-02-10T21:46:15: [WARNING] File "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\asyncfilters.py" contained parse errors
+2017-02-10T21:46:15: (24,17) - (24,22) 'yield' inside async function
+(112,13) - (112,18) 'yield' inside async function
+2017-02-10T21:46:15: Parsing "jinja2.asyncsupport" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\asyncsupport.py")
+2017-02-10T21:46:15: [WARNING] File "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\asyncsupport.py" contained parse errors
+2017-02-10T21:46:15: (35,13) - (35,18) 'yield' inside async function
+(40,5) - (40,10) 'yield' inside async function
+(184,13) - (184,18) 'yield' inside async function
+(187,9) - (187,14) 'yield' inside async function
+2017-02-10T21:46:15: Parsing "jinja2.bccache" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\bccache.py")
+2017-02-10T21:46:15: Parsing "jinja2.compiler" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\compiler.py")
+2017-02-10T21:46:15: Parsing "jinja2.constants" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\constants.py")
+2017-02-10T21:46:15: Parsing "jinja2.debug" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\debug.py")
+2017-02-10T21:46:15: Parsing "jinja2.defaults" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\defaults.py")
+2017-02-10T21:46:15: Parsing "jinja2.environment" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\environment.py")
+2017-02-10T21:46:15: Parsing "jinja2.exceptions" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\exceptions.py")
+2017-02-10T21:46:15: Parsing "jinja2.ext" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\ext.py")
+2017-02-10T21:46:15: Parsing "jinja2.filters" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\filters.py")
+2017-02-10T21:46:15: Parsing "jinja2.idtracking" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\idtracking.py")
+2017-02-10T21:46:15: Parsing "jinja2.lexer" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\lexer.py")
+2017-02-10T21:46:15: Parsing "jinja2.loaders" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\loaders.py")
+2017-02-10T21:46:15: Parsing "jinja2.meta" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\meta.py")
+2017-02-10T21:46:15: Parsing "jinja2.nodes" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\nodes.py")
+2017-02-10T21:46:15: Parsing "jinja2.optimizer" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\optimizer.py")
+2017-02-10T21:46:15: Parsing "jinja2.parser" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\parser.py")
+2017-02-10T21:46:15: Parsing "jinja2.runtime" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\runtime.py")
+2017-02-10T21:46:15: Parsing "jinja2.sandbox" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\sandbox.py")
+2017-02-10T21:46:15: Parsing "jinja2.tests" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\tests.py")
+2017-02-10T21:46:15: Parsing "jinja2.utils" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\utils.py")
+2017-02-10T21:46:15: Parsing "jinja2.visitor" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\visitor.py")
+2017-02-10T21:46:15: Parsing "jinja2._compat" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\_compat.py")
+2017-02-10T21:46:15: Parsing "jinja2._stringdefs" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\_stringdefs.py")
+2017-02-10T21:46:15: Parsing "jinja2" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2\__init__.py")
+2017-02-10T21:46:15: Parsing complete
+2017-02-10T21:46:15: Analyzing "jinja2.asyncfilters"
+2017-02-10T21:46:15: Analyzing "jinja2.asyncsupport"
+2017-02-10T21:46:15: Analyzing "jinja2.bccache"
+2017-02-10T21:46:15: Analyzing "jinja2.compiler"
+2017-02-10T21:46:15: Analyzing "jinja2.constants"
+2017-02-10T21:46:15: Analyzing "jinja2.debug"
+2017-02-10T21:46:15: Analyzing "jinja2.defaults"
+2017-02-10T21:46:15: Analyzing "jinja2.environment"
+2017-02-10T21:46:15: Analyzing "jinja2.exceptions"
+2017-02-10T21:46:15: Analyzing "jinja2.ext"
+2017-02-10T21:46:15: Analyzing "jinja2.filters"
+2017-02-10T21:46:15: Analyzing "jinja2.idtracking"
+2017-02-10T21:46:15: Analyzing "jinja2.lexer"
+2017-02-10T21:46:15: Analyzing "jinja2.loaders"
+2017-02-10T21:46:15: Analyzing "jinja2.meta"
+2017-02-10T21:46:15: Analyzing "jinja2.nodes"
+2017-02-10T21:46:15: Analyzing "jinja2.optimizer"
+2017-02-10T21:46:15: Analyzing "jinja2.parser"
+2017-02-10T21:46:15: Analyzing "jinja2.runtime"
+2017-02-10T21:46:15: Analyzing "jinja2.sandbox"
+2017-02-10T21:46:15: Analyzing "jinja2.tests"
+2017-02-10T21:46:15: Analyzing "jinja2.utils"
+2017-02-10T21:46:15: Analyzing "jinja2.visitor"
+2017-02-10T21:46:15: Analyzing "jinja2._compat"
+2017-02-10T21:46:15: Analyzing "jinja2._stringdefs"
+2017-02-10T21:46:15: Analyzing "jinja2"
+2017-02-10T21:46:15: Starting analysis of 26 modules
+2017-02-10T21:46:18: Analysis complete
+2017-02-10T21:46:18: Saving group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2"
+2017-02-10T21:46:18: End of group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\jinja2"
+2017-02-10T21:46:18: Start group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\markupsafe" with 5 files
+2017-02-10T21:46:18: Parsing "markupsafe.tests" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\markupsafe\tests.py")
+2017-02-10T21:46:18: Parsing "markupsafe._compat" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\markupsafe\_compat.py")
+2017-02-10T21:46:18: Parsing "markupsafe._constants" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\markupsafe\_constants.py")
+2017-02-10T21:46:18: Parsing "markupsafe._native" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\markupsafe\_native.py")
+2017-02-10T21:46:18: Parsing "markupsafe" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\markupsafe\__init__.py")
+2017-02-10T21:46:18: Parsing complete
+2017-02-10T21:46:18: Analyzing "markupsafe.tests"
+2017-02-10T21:46:18: Analyzing "markupsafe._compat"
+2017-02-10T21:46:18: Analyzing "markupsafe._constants"
+2017-02-10T21:46:18: Analyzing "markupsafe._native"
+2017-02-10T21:46:18: Analyzing "markupsafe"
+2017-02-10T21:46:18: Starting analysis of 5 modules
+2017-02-10T21:46:20: Analysis complete
+2017-02-10T21:46:20: Saving group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\markupsafe"
+2017-02-10T21:46:20: End of group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\markupsafe"
+2017-02-10T21:46:20: Start group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\packaging" with 9 files
+2017-02-10T21:46:20: Parsing "packaging.markers" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\packaging\markers.py")
+2017-02-10T21:46:20: Parsing "packaging.requirements" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\packaging\requirements.py")
+2017-02-10T21:46:20: Parsing "packaging.specifiers" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\packaging\specifiers.py")
+2017-02-10T21:46:20: Parsing "packaging.utils" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\packaging\utils.py")
+2017-02-10T21:46:20: Parsing "packaging.version" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\packaging\version.py")
+2017-02-10T21:46:20: Parsing "packaging._compat" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\packaging\_compat.py")
+2017-02-10T21:46:20: Parsing "packaging._structures" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\packaging\_structures.py")
+2017-02-10T21:46:20: Parsing "packaging.__about__" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\packaging\__about__.py")
+2017-02-10T21:46:20: Parsing "packaging" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\packaging\__init__.py")
+2017-02-10T21:46:20: Parsing complete
+2017-02-10T21:46:20: Analyzing "packaging.markers"
+2017-02-10T21:46:20: Analyzing "packaging.requirements"
+2017-02-10T21:46:20: Analyzing "packaging.specifiers"
+2017-02-10T21:46:20: Analyzing "packaging.utils"
+2017-02-10T21:46:20: Analyzing "packaging.version"
+2017-02-10T21:46:20: Analyzing "packaging._compat"
+2017-02-10T21:46:20: Analyzing "packaging._structures"
+2017-02-10T21:46:20: Analyzing "packaging.__about__"
+2017-02-10T21:46:20: Analyzing "packaging"
+2017-02-10T21:46:20: Starting analysis of 9 modules
+2017-02-10T21:46:23: Analysis complete
+2017-02-10T21:46:23: Saving group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\packaging"
+2017-02-10T21:46:23: End of group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\packaging"
+2017-02-10T21:46:23: Start group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip" with 174 files
+2017-02-10T21:46:23: Parsing "pip.basecommand" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\basecommand.py")
+2017-02-10T21:46:23: Parsing "pip.baseparser" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\baseparser.py")
+2017-02-10T21:46:23: Parsing "pip.cmdoptions" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\cmdoptions.py")
+2017-02-10T21:46:23: Parsing "pip.download" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\download.py")
+2017-02-10T21:46:23: Parsing "pip.exceptions" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\exceptions.py")
+2017-02-10T21:46:23: Parsing "pip.index" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\index.py")
+2017-02-10T21:46:23: Parsing "pip.locations" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\locations.py")
+2017-02-10T21:46:23: Parsing "pip.pep425tags" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\pep425tags.py")
+2017-02-10T21:46:23: Parsing "pip.status_codes" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\status_codes.py")
+2017-02-10T21:46:23: Parsing "pip.wheel" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\wheel.py")
+2017-02-10T21:46:23: Parsing "pip" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\__init__.py")
+2017-02-10T21:46:23: Parsing "pip.__main__" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\__main__.py")
+2017-02-10T21:46:23: Parsing "pip.commands.check" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\commands\check.py")
+2017-02-10T21:46:23: Parsing "pip.commands.completion" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\commands\completion.py")
+2017-02-10T21:46:23: Parsing "pip.commands.download" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\commands\download.py")
+2017-02-10T21:46:23: Parsing "pip.commands.freeze" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\commands\freeze.py")
+2017-02-10T21:46:23: Parsing "pip.commands.hash" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\commands\hash.py")
+2017-02-10T21:46:23: Parsing "pip.commands.help" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\commands\help.py")
+2017-02-10T21:46:23: Parsing "pip.commands.install" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\commands\install.py")
+2017-02-10T21:46:23: Parsing "pip.commands.list" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\commands\list.py")
+2017-02-10T21:46:23: Parsing "pip.commands.search" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\commands\search.py")
+2017-02-10T21:46:23: Parsing "pip.commands.show" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\commands\show.py")
+2017-02-10T21:46:23: Parsing "pip.commands.uninstall" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\commands\uninstall.py")
+2017-02-10T21:46:23: Parsing "pip.commands.wheel" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\commands\wheel.py")
+2017-02-10T21:46:23: Parsing "pip.commands" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\commands\__init__.py")
+2017-02-10T21:46:23: Parsing "pip.compat.dictconfig" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\compat\dictconfig.py")
+2017-02-10T21:46:23: Parsing "pip.compat" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\compat\__init__.py")
+2017-02-10T21:46:23: Parsing "pip.models.index" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\models\index.py")
+2017-02-10T21:46:23: Parsing "pip.models" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\models\__init__.py")
+2017-02-10T21:46:23: Parsing "pip.operations.check" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\operations\check.py")
+2017-02-10T21:46:23: Parsing "pip.operations.freeze" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\operations\freeze.py")
+2017-02-10T21:46:23: Parsing "pip.operations" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\operations\__init__.py")
+2017-02-10T21:46:23: Parsing "pip.req.req_file" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\req\req_file.py")
+2017-02-10T21:46:23: Parsing "pip.req.req_install" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\req\req_install.py")
+2017-02-10T21:46:23: Parsing "pip.req.req_set" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\req\req_set.py")
+2017-02-10T21:46:23: Parsing "pip.req.req_uninstall" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\req\req_uninstall.py")
+2017-02-10T21:46:23: Parsing "pip.req" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\req\__init__.py")
+2017-02-10T21:46:23: Parsing "pip.utils.appdirs" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\utils\appdirs.py")
+2017-02-10T21:46:23: Parsing "pip.utils.build" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\utils\build.py")
+2017-02-10T21:46:23: Parsing "pip.utils.deprecation" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\utils\deprecation.py")
+2017-02-10T21:46:23: Parsing "pip.utils.encoding" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\utils\encoding.py")
+2017-02-10T21:46:23: Parsing "pip.utils.filesystem" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\utils\filesystem.py")
+2017-02-10T21:46:23: Parsing "pip.utils.glibc" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\utils\glibc.py")
+2017-02-10T21:46:23: Parsing "pip.utils.hashes" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\utils\hashes.py")
+2017-02-10T21:46:23: Parsing "pip.utils.logging" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\utils\logging.py")
+2017-02-10T21:46:23: Parsing "pip.utils.outdated" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\utils\outdated.py")
+2017-02-10T21:46:23: Parsing "pip.utils.packaging" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\utils\packaging.py")
+2017-02-10T21:46:23: Parsing "pip.utils.setuptools_build" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\utils\setuptools_build.py")
+2017-02-10T21:46:23: Parsing "pip.utils.ui" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\utils\ui.py")
+2017-02-10T21:46:23: Parsing "pip.utils" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\utils\__init__.py")
+2017-02-10T21:46:23: Parsing "pip.vcs.bazaar" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\vcs\bazaar.py")
+2017-02-10T21:46:23: Parsing "pip.vcs.git" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\vcs\git.py")
+2017-02-10T21:46:23: Parsing "pip.vcs.mercurial" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\vcs\mercurial.py")
+2017-02-10T21:46:23: Parsing "pip.vcs.subversion" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\vcs\subversion.py")
+2017-02-10T21:46:23: Parsing "pip.vcs" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\vcs\__init__.py")
+2017-02-10T21:46:23: Parsing "pip._vendor.appdirs" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\appdirs.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.distro" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\distro.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.ipaddress" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\ipaddress.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.ordereddict" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\ordereddict.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.pyparsing" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\pyparsing.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.retrying" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\retrying.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.six" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\six.py")
+2017-02-10T21:46:24: Parsing "pip._vendor" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\__init__.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.cachecontrol.adapter" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\cachecontrol\adapter.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.cachecontrol.cache" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\cachecontrol\cache.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.cachecontrol.compat" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\cachecontrol\compat.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.cachecontrol.controller" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\cachecontrol\controller.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.cachecontrol.filewrapper" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\cachecontrol\filewrapper.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.cachecontrol.heuristics" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\cachecontrol\heuristics.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.cachecontrol.serialize" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\cachecontrol\serialize.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.cachecontrol.wrapper" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\cachecontrol\wrapper.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.cachecontrol._cmd" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\cachecontrol\_cmd.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.cachecontrol" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\cachecontrol\__init__.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.cachecontrol.caches.file_cache" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\file_cache.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.cachecontrol.caches.redis_cache" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\redis_cache.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.cachecontrol.caches" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\__init__.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.colorama.ansi" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\colorama\ansi.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.colorama.ansitowin32" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\colorama\ansitowin32.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.colorama.initialise" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\colorama\initialise.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.colorama.win32" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\colorama\win32.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.colorama.winterm" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\colorama\winterm.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.colorama" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\colorama\__init__.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.distlib.compat" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\distlib\compat.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.distlib.database" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\distlib\database.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.distlib.index" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\distlib\index.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.distlib.locators" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\distlib\locators.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.distlib.manifest" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\distlib\manifest.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.distlib.markers" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\distlib\markers.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.distlib.metadata" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\distlib\metadata.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.distlib.resources" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\distlib\resources.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.distlib.scripts" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\distlib\scripts.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.distlib.util" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\distlib\util.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.distlib.version" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\distlib\version.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.distlib.wheel" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\distlib\wheel.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.distlib" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\distlib\__init__.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.distlib._backport.misc" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\distlib\_backport\misc.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.distlib._backport.shutil" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\distlib\_backport\shutil.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.distlib._backport.sysconfig" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\distlib\_backport\sysconfig.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.distlib._backport.tarfile" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.distlib._backport" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\distlib\_backport\__init__.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib.constants" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\constants.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib.html5parser" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\html5parser.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib.serializer" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\serializer.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib._ihatexml" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\_ihatexml.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib._inputstream" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\_inputstream.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib._tokenizer" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\_tokenizer.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib._utils" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\_utils.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\__init__.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib.filters.alphabeticalattributes" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\filters\alphabeticalattributes.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib.filters.base" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\filters\base.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib.filters.inject_meta_charset" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\filters\inject_meta_charset.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib.filters.lint" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\filters\lint.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib.filters.optionaltags" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\filters\optionaltags.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib.filters.sanitizer" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\filters\sanitizer.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib.filters.whitespace" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\filters\whitespace.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib.filters" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\filters\__init__.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib.treeadapters.genshi" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\genshi.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib.treeadapters.sax" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\sax.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib.treeadapters" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\__init__.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib.treebuilders.base" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\base.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib.treebuilders.dom" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\dom.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib.treebuilders.etree" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib.treebuilders.etree_lxml" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree_lxml.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib.treebuilders" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\__init__.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib.treewalkers.base" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\base.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib.treewalkers.dom" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\dom.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib.treewalkers.etree" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib.treewalkers.etree_lxml" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree_lxml.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib.treewalkers.genshi" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\genshi.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib.treewalkers" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\__init__.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib._trie.datrie" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\_trie\datrie.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib._trie.py" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\_trie\py.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib._trie._base" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\_trie\_base.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.html5lib._trie" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\html5lib\_trie\__init__.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.lockfile.linklockfile" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\lockfile\linklockfile.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.lockfile.mkdirlockfile" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\lockfile\mkdirlockfile.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.lockfile.pidlockfile" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\lockfile\pidlockfile.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.lockfile.sqlitelockfile" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\lockfile\sqlitelockfile.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.lockfile.symlinklockfile" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\lockfile\symlinklockfile.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.lockfile" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\lockfile\__init__.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.packaging.markers" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\packaging\markers.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.packaging.requirements" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\packaging\requirements.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.packaging.specifiers" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\packaging\specifiers.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.packaging.utils" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\packaging\utils.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.packaging.version" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\packaging\version.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.packaging._compat" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\packaging\_compat.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.packaging._structures" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\packaging\_structures.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.packaging.__about__" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\packaging\__about__.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.packaging" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\packaging\__init__.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.pkg_resources" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\pkg_resources\__init__.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.progress.bar" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\progress\bar.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.progress.counter" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\progress\counter.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.progress.helpers" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\progress\helpers.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.progress.spinner" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\progress\spinner.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.progress" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\progress\__init__.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.requests.adapters" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\requests\adapters.py")
+2017-02-10T21:46:24: Parsing "pip._vendor.requests.api" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\requests\api.py")
+2017-02-10T21:46:25: Parsing "pip._vendor.requests.auth" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\requests\auth.py")
+2017-02-10T21:46:25: Parsing "pip._vendor.requests.certs" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\requests\certs.py")
+2017-02-10T21:46:25: Parsing "pip._vendor.requests.compat" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\requests\compat.py")
+2017-02-10T21:46:25: Parsing "pip._vendor.requests.cookies" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\requests\cookies.py")
+2017-02-10T21:46:25: Parsing "pip._vendor.requests.exceptions" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\requests\exceptions.py")
+2017-02-10T21:46:25: Parsing "pip._vendor.requests.hooks" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\requests\hooks.py")
+2017-02-10T21:46:25: Parsing "pip._vendor.requests.models" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\requests\models.py")
+2017-02-10T21:46:25: Parsing "pip._vendor.requests.sessions" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\requests\sessions.py")
+2017-02-10T21:46:25: Parsing "pip._vendor.requests.status_codes" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\requests\status_codes.py")
+2017-02-10T21:46:25: Parsing "pip._vendor.requests.structures" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\requests\structures.py")
+2017-02-10T21:46:25: Parsing "pip._vendor.requests.utils" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\requests\utils.py")
+2017-02-10T21:46:25: Parsing "pip._vendor.requests" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\requests\__init__.py")
+2017-02-10T21:46:25: Parsing "pip._vendor.webencodings.labels" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\webencodings\labels.py")
+2017-02-10T21:46:25: Parsing "pip._vendor.webencodings.mklabels" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\webencodings\mklabels.py")
+2017-02-10T21:46:25: Parsing "pip._vendor.webencodings.tests" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\webencodings\tests.py")
+2017-02-10T21:46:25: Parsing "pip._vendor.webencodings.x_user_defined" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\webencodings\x_user_defined.py")
+2017-02-10T21:46:25: Parsing "pip._vendor.webencodings" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip\_vendor\webencodings\__init__.py")
+2017-02-10T21:46:25: Parsing complete
+2017-02-10T21:46:25: Analyzing "pip.basecommand"
+2017-02-10T21:46:25: Analyzing "pip.baseparser"
+2017-02-10T21:46:25: Analyzing "pip.cmdoptions"
+2017-02-10T21:46:25: Analyzing "pip.download"
+2017-02-10T21:46:25: Analyzing "pip.exceptions"
+2017-02-10T21:46:25: Analyzing "pip.index"
+2017-02-10T21:46:25: Analyzing "pip.locations"
+2017-02-10T21:46:25: Analyzing "pip.pep425tags"
+2017-02-10T21:46:25: Analyzing "pip.status_codes"
+2017-02-10T21:46:25: Analyzing "pip.wheel"
+2017-02-10T21:46:25: Analyzing "pip"
+2017-02-10T21:46:25: Analyzing "pip.__main__"
+2017-02-10T21:46:25: Analyzing "pip.commands.check"
+2017-02-10T21:46:25: Analyzing "pip.commands.completion"
+2017-02-10T21:46:25: Analyzing "pip.commands.download"
+2017-02-10T21:46:25: Analyzing "pip.commands.freeze"
+2017-02-10T21:46:25: Analyzing "pip.commands.hash"
+2017-02-10T21:46:25: Analyzing "pip.commands.help"
+2017-02-10T21:46:25: Analyzing "pip.commands.install"
+2017-02-10T21:46:25: Analyzing "pip.commands.list"
+2017-02-10T21:46:25: Analyzing "pip.commands.search"
+2017-02-10T21:46:25: Analyzing "pip.commands.show"
+2017-02-10T21:46:25: Analyzing "pip.commands.uninstall"
+2017-02-10T21:46:25: Analyzing "pip.commands.wheel"
+2017-02-10T21:46:25: Analyzing "pip.commands"
+2017-02-10T21:46:25: Analyzing "pip.compat.dictconfig"
+2017-02-10T21:46:25: Analyzing "pip.compat"
+2017-02-10T21:46:25: Analyzing "pip.models.index"
+2017-02-10T21:46:25: Analyzing "pip.models"
+2017-02-10T21:46:25: Analyzing "pip.operations.check"
+2017-02-10T21:46:25: Analyzing "pip.operations.freeze"
+2017-02-10T21:46:25: Analyzing "pip.operations"
+2017-02-10T21:46:25: Analyzing "pip.req.req_file"
+2017-02-10T21:46:25: Analyzing "pip.req.req_install"
+2017-02-10T21:46:25: Analyzing "pip.req.req_set"
+2017-02-10T21:46:25: Analyzing "pip.req.req_uninstall"
+2017-02-10T21:46:25: Analyzing "pip.req"
+2017-02-10T21:46:25: Analyzing "pip.utils.appdirs"
+2017-02-10T21:46:25: Analyzing "pip.utils.build"
+2017-02-10T21:46:25: Analyzing "pip.utils.deprecation"
+2017-02-10T21:46:25: Analyzing "pip.utils.encoding"
+2017-02-10T21:46:25: Analyzing "pip.utils.filesystem"
+2017-02-10T21:46:25: Analyzing "pip.utils.glibc"
+2017-02-10T21:46:25: Analyzing "pip.utils.hashes"
+2017-02-10T21:46:25: Analyzing "pip.utils.logging"
+2017-02-10T21:46:25: Analyzing "pip.utils.outdated"
+2017-02-10T21:46:25: Analyzing "pip.utils.packaging"
+2017-02-10T21:46:25: Analyzing "pip.utils.setuptools_build"
+2017-02-10T21:46:25: Analyzing "pip.utils.ui"
+2017-02-10T21:46:25: Analyzing "pip.utils"
+2017-02-10T21:46:25: Analyzing "pip.vcs.bazaar"
+2017-02-10T21:46:25: Analyzing "pip.vcs.git"
+2017-02-10T21:46:25: Analyzing "pip.vcs.mercurial"
+2017-02-10T21:46:25: Analyzing "pip.vcs.subversion"
+2017-02-10T21:46:25: Analyzing "pip.vcs"
+2017-02-10T21:46:25: Analyzing "pip._vendor.appdirs"
+2017-02-10T21:46:25: Analyzing "pip._vendor.distro"
+2017-02-10T21:46:25: Analyzing "pip._vendor.ipaddress"
+2017-02-10T21:46:25: Analyzing "pip._vendor.ordereddict"
+2017-02-10T21:46:25: Analyzing "pip._vendor.pyparsing"
+2017-02-10T21:46:25: Analyzing "pip._vendor.retrying"
+2017-02-10T21:46:25: Analyzing "pip._vendor.six"
+2017-02-10T21:46:25: Analyzing "pip._vendor"
+2017-02-10T21:46:25: Analyzing "pip._vendor.cachecontrol.adapter"
+2017-02-10T21:46:25: Analyzing "pip._vendor.cachecontrol.cache"
+2017-02-10T21:46:25: Analyzing "pip._vendor.cachecontrol.compat"
+2017-02-10T21:46:25: Analyzing "pip._vendor.cachecontrol.controller"
+2017-02-10T21:46:25: Analyzing "pip._vendor.cachecontrol.filewrapper"
+2017-02-10T21:46:25: Analyzing "pip._vendor.cachecontrol.heuristics"
+2017-02-10T21:46:25: Analyzing "pip._vendor.cachecontrol.serialize"
+2017-02-10T21:46:25: Analyzing "pip._vendor.cachecontrol.wrapper"
+2017-02-10T21:46:25: Analyzing "pip._vendor.cachecontrol._cmd"
+2017-02-10T21:46:25: Analyzing "pip._vendor.cachecontrol"
+2017-02-10T21:46:25: Analyzing "pip._vendor.cachecontrol.caches.file_cache"
+2017-02-10T21:46:25: Analyzing "pip._vendor.cachecontrol.caches.redis_cache"
+2017-02-10T21:46:25: Analyzing "pip._vendor.cachecontrol.caches"
+2017-02-10T21:46:25: Analyzing "pip._vendor.colorama.ansi"
+2017-02-10T21:46:25: Analyzing "pip._vendor.colorama.ansitowin32"
+2017-02-10T21:46:25: Analyzing "pip._vendor.colorama.initialise"
+2017-02-10T21:46:25: Analyzing "pip._vendor.colorama.win32"
+2017-02-10T21:46:25: Analyzing "pip._vendor.colorama.winterm"
+2017-02-10T21:46:25: Analyzing "pip._vendor.colorama"
+2017-02-10T21:46:25: Analyzing "pip._vendor.distlib.compat"
+2017-02-10T21:46:25: Analyzing "pip._vendor.distlib.database"
+2017-02-10T21:46:25: Analyzing "pip._vendor.distlib.index"
+2017-02-10T21:46:25: Analyzing "pip._vendor.distlib.locators"
+2017-02-10T21:46:25: Analyzing "pip._vendor.distlib.manifest"
+2017-02-10T21:46:25: Analyzing "pip._vendor.distlib.markers"
+2017-02-10T21:46:25: Analyzing "pip._vendor.distlib.metadata"
+2017-02-10T21:46:25: Analyzing "pip._vendor.distlib.resources"
+2017-02-10T21:46:25: Analyzing "pip._vendor.distlib.scripts"
+2017-02-10T21:46:25: Analyzing "pip._vendor.distlib.util"
+2017-02-10T21:46:25: Analyzing "pip._vendor.distlib.version"
+2017-02-10T21:46:25: Analyzing "pip._vendor.distlib.wheel"
+2017-02-10T21:46:25: Analyzing "pip._vendor.distlib"
+2017-02-10T21:46:25: Analyzing "pip._vendor.distlib._backport.misc"
+2017-02-10T21:46:25: Analyzing "pip._vendor.distlib._backport.shutil"
+2017-02-10T21:46:25: Analyzing "pip._vendor.distlib._backport.sysconfig"
+2017-02-10T21:46:25: Analyzing "pip._vendor.distlib._backport.tarfile"
+2017-02-10T21:46:25: Analyzing "pip._vendor.distlib._backport"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib.constants"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib.html5parser"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib.serializer"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib._ihatexml"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib._inputstream"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib._tokenizer"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib._utils"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib.filters.alphabeticalattributes"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib.filters.base"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib.filters.inject_meta_charset"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib.filters.lint"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib.filters.optionaltags"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib.filters.sanitizer"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib.filters.whitespace"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib.filters"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib.treeadapters.genshi"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib.treeadapters.sax"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib.treeadapters"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib.treebuilders.base"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib.treebuilders.dom"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib.treebuilders.etree"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib.treebuilders.etree_lxml"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib.treebuilders"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib.treewalkers.base"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib.treewalkers.dom"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib.treewalkers.etree"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib.treewalkers.etree_lxml"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib.treewalkers.genshi"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib.treewalkers"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib._trie.datrie"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib._trie.py"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib._trie._base"
+2017-02-10T21:46:25: Analyzing "pip._vendor.html5lib._trie"
+2017-02-10T21:46:25: Analyzing "pip._vendor.lockfile.linklockfile"
+2017-02-10T21:46:25: Analyzing "pip._vendor.lockfile.mkdirlockfile"
+2017-02-10T21:46:25: Analyzing "pip._vendor.lockfile.pidlockfile"
+2017-02-10T21:46:25: Analyzing "pip._vendor.lockfile.sqlitelockfile"
+2017-02-10T21:46:25: Analyzing "pip._vendor.lockfile.symlinklockfile"
+2017-02-10T21:46:25: Analyzing "pip._vendor.lockfile"
+2017-02-10T21:46:25: Analyzing "pip._vendor.packaging.markers"
+2017-02-10T21:46:25: Analyzing "pip._vendor.packaging.requirements"
+2017-02-10T21:46:25: Analyzing "pip._vendor.packaging.specifiers"
+2017-02-10T21:46:25: Analyzing "pip._vendor.packaging.utils"
+2017-02-10T21:46:25: Analyzing "pip._vendor.packaging.version"
+2017-02-10T21:46:25: Analyzing "pip._vendor.packaging._compat"
+2017-02-10T21:46:25: Analyzing "pip._vendor.packaging._structures"
+2017-02-10T21:46:25: Analyzing "pip._vendor.packaging.__about__"
+2017-02-10T21:46:25: Analyzing "pip._vendor.packaging"
+2017-02-10T21:46:25: Analyzing "pip._vendor.pkg_resources"
+2017-02-10T21:46:25: Analyzing "pip._vendor.progress.bar"
+2017-02-10T21:46:25: Analyzing "pip._vendor.progress.counter"
+2017-02-10T21:46:25: Analyzing "pip._vendor.progress.helpers"
+2017-02-10T21:46:25: Analyzing "pip._vendor.progress.spinner"
+2017-02-10T21:46:25: Analyzing "pip._vendor.progress"
+2017-02-10T21:46:25: Analyzing "pip._vendor.requests.adapters"
+2017-02-10T21:46:25: Analyzing "pip._vendor.requests.api"
+2017-02-10T21:46:25: Analyzing "pip._vendor.requests.auth"
+2017-02-10T21:46:25: Analyzing "pip._vendor.requests.certs"
+2017-02-10T21:46:25: Analyzing "pip._vendor.requests.compat"
+2017-02-10T21:46:25: Analyzing "pip._vendor.requests.cookies"
+2017-02-10T21:46:25: Analyzing "pip._vendor.requests.exceptions"
+2017-02-10T21:46:25: Analyzing "pip._vendor.requests.hooks"
+2017-02-10T21:46:25: Analyzing "pip._vendor.requests.models"
+2017-02-10T21:46:25: Analyzing "pip._vendor.requests.sessions"
+2017-02-10T21:46:25: Analyzing "pip._vendor.requests.status_codes"
+2017-02-10T21:46:25: Analyzing "pip._vendor.requests.structures"
+2017-02-10T21:46:25: Analyzing "pip._vendor.requests.utils"
+2017-02-10T21:46:25: Analyzing "pip._vendor.requests"
+2017-02-10T21:46:25: Analyzing "pip._vendor.webencodings.labels"
+2017-02-10T21:46:25: Analyzing "pip._vendor.webencodings.mklabels"
+2017-02-10T21:46:25: Analyzing "pip._vendor.webencodings.tests"
+2017-02-10T21:46:25: Analyzing "pip._vendor.webencodings.x_user_defined"
+2017-02-10T21:46:25: Analyzing "pip._vendor.webencodings"
+2017-02-10T21:46:25: Starting analysis of 174 modules
+2017-02-10T21:46:33: Analysis complete
+2017-02-10T21:46:33: Saving group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip"
+2017-02-10T21:46:35: End of group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pip"
+2017-02-10T21:46:35: Start group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pkg_resources" with 1 files
+2017-02-10T21:46:35: Parsing "pkg_resources" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pkg_resources\__init__.py")
+2017-02-10T21:46:35: Parsing complete
+2017-02-10T21:46:35: Analyzing "pkg_resources"
+2017-02-10T21:46:35: Starting analysis of 1 modules
+2017-02-10T21:46:38: Analysis complete
+2017-02-10T21:46:38: Saving group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pkg_resources"
+2017-02-10T21:46:38: End of group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\pkg_resources"
+2017-02-10T21:46:38: Start group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools" with 48 files
+2017-02-10T21:46:38: Parsing "setuptools.archive_util" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\archive_util.py")
+2017-02-10T21:46:38: Parsing "setuptools.config" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\config.py")
+2017-02-10T21:46:38: Parsing "setuptools.depends" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\depends.py")
+2017-02-10T21:46:38: Parsing "setuptools.dep_util" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\dep_util.py")
+2017-02-10T21:46:38: Parsing "setuptools.dist" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\dist.py")
+2017-02-10T21:46:38: Parsing "setuptools.extension" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\extension.py")
+2017-02-10T21:46:38: Parsing "setuptools.glob" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\glob.py")
+2017-02-10T21:46:38: Parsing "setuptools.launch" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\launch.py")
+2017-02-10T21:46:38: Parsing "setuptools.lib2to3_ex" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\lib2to3_ex.py")
+2017-02-10T21:46:38: Parsing "setuptools.monkey" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\monkey.py")
+2017-02-10T21:46:38: Parsing "setuptools.msvc" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\msvc.py")
+2017-02-10T21:46:38: Parsing "setuptools.namespaces" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\namespaces.py")
+2017-02-10T21:46:38: Parsing "setuptools.package_index" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\package_index.py")
+2017-02-10T21:46:38: Parsing "setuptools.py26compat" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\py26compat.py")
+2017-02-10T21:46:38: Parsing "setuptools.py27compat" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\py27compat.py")
+2017-02-10T21:46:38: Parsing "setuptools.py31compat" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\py31compat.py")
+2017-02-10T21:46:38: Parsing "setuptools.py33compat" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\py33compat.py")
+2017-02-10T21:46:38: Parsing "setuptools.py36compat" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\py36compat.py")
+2017-02-10T21:46:38: Parsing "setuptools.sandbox" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\sandbox.py")
+2017-02-10T21:46:38: Parsing "setuptools.ssl_support" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\ssl_support.py")
+2017-02-10T21:46:38: Parsing "setuptools.unicode_utils" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\unicode_utils.py")
+2017-02-10T21:46:38: Parsing "setuptools.version" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\version.py")
+2017-02-10T21:46:38: Parsing "setuptools.windows_support" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\windows_support.py")
+2017-02-10T21:46:38: Parsing "setuptools" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\__init__.py")
+2017-02-10T21:46:38: Parsing "setuptools.command.alias" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\command\alias.py")
+2017-02-10T21:46:38: Parsing "setuptools.command.bdist_egg" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\command\bdist_egg.py")
+2017-02-10T21:46:38: Parsing "setuptools.command.bdist_rpm" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\command\bdist_rpm.py")
+2017-02-10T21:46:38: Parsing "setuptools.command.bdist_wininst" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\command\bdist_wininst.py")
+2017-02-10T21:46:38: Parsing "setuptools.command.build_clib" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\command\build_clib.py")
+2017-02-10T21:46:38: Parsing "setuptools.command.build_ext" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\command\build_ext.py")
+2017-02-10T21:46:38: Parsing "setuptools.command.build_py" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\command\build_py.py")
+2017-02-10T21:46:38: Parsing "setuptools.command.develop" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\command\develop.py")
+2017-02-10T21:46:38: Parsing "setuptools.command.easy_install" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\command\easy_install.py")
+2017-02-10T21:46:38: Parsing "setuptools.command.egg_info" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\command\egg_info.py")
+2017-02-10T21:46:38: Parsing "setuptools.command.install" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\command\install.py")
+2017-02-10T21:46:38: Parsing "setuptools.command.install_egg_info" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\command\install_egg_info.py")
+2017-02-10T21:46:38: Parsing "setuptools.command.install_lib" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\command\install_lib.py")
+2017-02-10T21:46:38: Parsing "setuptools.command.install_scripts" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\command\install_scripts.py")
+2017-02-10T21:46:38: Parsing "setuptools.command.py36compat" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\command\py36compat.py")
+2017-02-10T21:46:38: Parsing "setuptools.command.register" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\command\register.py")
+2017-02-10T21:46:38: Parsing "setuptools.command.rotate" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\command\rotate.py")
+2017-02-10T21:46:38: Parsing "setuptools.command.saveopts" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\command\saveopts.py")
+2017-02-10T21:46:38: Parsing "setuptools.command.sdist" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\command\sdist.py")
+2017-02-10T21:46:38: Parsing "setuptools.command.setopt" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\command\setopt.py")
+2017-02-10T21:46:38: Parsing "setuptools.command.test" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\command\test.py")
+2017-02-10T21:46:38: Parsing "setuptools.command.upload" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\command\upload.py")
+2017-02-10T21:46:38: Parsing "setuptools.command.upload_docs" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\command\upload_docs.py")
+2017-02-10T21:46:38: Parsing "setuptools.command" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools\command\__init__.py")
+2017-02-10T21:46:38: Parsing complete
+2017-02-10T21:46:38: Analyzing "setuptools.archive_util"
+2017-02-10T21:46:38: Analyzing "setuptools.config"
+2017-02-10T21:46:38: Analyzing "setuptools.depends"
+2017-02-10T21:46:38: Analyzing "setuptools.dep_util"
+2017-02-10T21:46:38: Analyzing "setuptools.dist"
+2017-02-10T21:46:38: Analyzing "setuptools.extension"
+2017-02-10T21:46:38: Analyzing "setuptools.glob"
+2017-02-10T21:46:38: Analyzing "setuptools.launch"
+2017-02-10T21:46:38: Analyzing "setuptools.lib2to3_ex"
+2017-02-10T21:46:38: Analyzing "setuptools.monkey"
+2017-02-10T21:46:38: Analyzing "setuptools.msvc"
+2017-02-10T21:46:38: Analyzing "setuptools.namespaces"
+2017-02-10T21:46:38: Analyzing "setuptools.package_index"
+2017-02-10T21:46:38: Analyzing "setuptools.py26compat"
+2017-02-10T21:46:38: Analyzing "setuptools.py27compat"
+2017-02-10T21:46:38: Analyzing "setuptools.py31compat"
+2017-02-10T21:46:38: Analyzing "setuptools.py33compat"
+2017-02-10T21:46:38: Analyzing "setuptools.py36compat"
+2017-02-10T21:46:38: Analyzing "setuptools.sandbox"
+2017-02-10T21:46:38: Analyzing "setuptools.ssl_support"
+2017-02-10T21:46:38: Analyzing "setuptools.unicode_utils"
+2017-02-10T21:46:38: Analyzing "setuptools.version"
+2017-02-10T21:46:38: Analyzing "setuptools.windows_support"
+2017-02-10T21:46:38: Analyzing "setuptools"
+2017-02-10T21:46:38: Analyzing "setuptools.command.alias"
+2017-02-10T21:46:38: Analyzing "setuptools.command.bdist_egg"
+2017-02-10T21:46:38: Analyzing "setuptools.command.bdist_rpm"
+2017-02-10T21:46:38: Analyzing "setuptools.command.bdist_wininst"
+2017-02-10T21:46:38: Analyzing "setuptools.command.build_clib"
+2017-02-10T21:46:38: Analyzing "setuptools.command.build_ext"
+2017-02-10T21:46:38: Analyzing "setuptools.command.build_py"
+2017-02-10T21:46:38: Analyzing "setuptools.command.develop"
+2017-02-10T21:46:38: Analyzing "setuptools.command.easy_install"
+2017-02-10T21:46:38: Analyzing "setuptools.command.egg_info"
+2017-02-10T21:46:38: Analyzing "setuptools.command.install"
+2017-02-10T21:46:38: Analyzing "setuptools.command.install_egg_info"
+2017-02-10T21:46:38: Analyzing "setuptools.command.install_lib"
+2017-02-10T21:46:38: Analyzing "setuptools.command.install_scripts"
+2017-02-10T21:46:38: Analyzing "setuptools.command.py36compat"
+2017-02-10T21:46:38: Analyzing "setuptools.command.register"
+2017-02-10T21:46:38: Analyzing "setuptools.command.rotate"
+2017-02-10T21:46:38: Analyzing "setuptools.command.saveopts"
+2017-02-10T21:46:38: Analyzing "setuptools.command.sdist"
+2017-02-10T21:46:38: Analyzing "setuptools.command.setopt"
+2017-02-10T21:46:38: Analyzing "setuptools.command.test"
+2017-02-10T21:46:38: Analyzing "setuptools.command.upload"
+2017-02-10T21:46:38: Analyzing "setuptools.command.upload_docs"
+2017-02-10T21:46:38: Analyzing "setuptools.command"
+2017-02-10T21:46:38: Starting analysis of 48 modules
+2017-02-10T21:46:41: Analysis complete
+2017-02-10T21:46:41: Saving group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools"
+2017-02-10T21:46:42: End of group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\setuptools"
+2017-02-10T21:46:42: Start group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy" with 189 files
+2017-02-10T21:46:42: Parsing "sqlalchemy.events" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\events.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.exc" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\exc.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.inspection" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\inspection.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.interfaces" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\interfaces.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.log" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\log.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.pool" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\pool.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.processors" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\processors.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.schema" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\schema.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.types" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\types.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\__init__.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.connectors.mxodbc" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\connectors\mxodbc.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.connectors.pyodbc" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\connectors\pyodbc.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.connectors.zxJDBC" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\connectors\zxJDBC.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.connectors" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\connectors\__init__.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.databases" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\databases\__init__.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.dialects" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\__init__.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.dialects.firebird.base" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\firebird\base.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.dialects.firebird.fdb" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\firebird\fdb.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.dialects.firebird.kinterbasdb" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\firebird\kinterbasdb.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.dialects.firebird" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\firebird\__init__.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.dialects.mssql.adodbapi" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\mssql\adodbapi.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.dialects.mssql.base" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\mssql\base.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.dialects.mssql.information_schema" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\mssql\information_schema.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.dialects.mssql.mxodbc" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\mssql\mxodbc.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.dialects.mssql.pymssql" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\mssql\pymssql.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.dialects.mssql.pyodbc" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\mssql\pyodbc.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.dialects.mssql.zxjdbc" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\mssql\zxjdbc.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.dialects.mssql" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\mssql\__init__.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.dialects.mysql.base" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\mysql\base.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.dialects.mysql.cymysql" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\mysql\cymysql.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.dialects.mysql.enumerated" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\mysql\enumerated.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.dialects.mysql.gaerdbms" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\mysql\gaerdbms.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.dialects.mysql.json" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\mysql\json.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.dialects.mysql.mysqlconnector" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\mysql\mysqlconnector.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.dialects.mysql.mysqldb" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\mysql\mysqldb.py")
+2017-02-10T21:46:42: Parsing "sqlalchemy.dialects.mysql.oursql" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\mysql\oursql.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.mysql.pymysql" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\mysql\pymysql.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.mysql.pyodbc" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\mysql\pyodbc.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.mysql.reflection" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\mysql\reflection.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.mysql.types" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\mysql\types.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.mysql.zxjdbc" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\mysql\zxjdbc.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.mysql" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\mysql\__init__.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.oracle.base" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\oracle\base.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.oracle.cx_oracle" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\oracle\cx_oracle.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.oracle.zxjdbc" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\oracle\zxjdbc.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.oracle" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\oracle\__init__.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.postgresql.array" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\postgresql\array.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.postgresql.base" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\postgresql\base.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.postgresql.dml" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\postgresql\dml.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.postgresql.ext" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\postgresql\ext.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.postgresql.hstore" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\postgresql\hstore.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.postgresql.json" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\postgresql\json.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.postgresql.pg8000" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\postgresql\pg8000.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.postgresql.psycopg2" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\postgresql\psycopg2.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.postgresql.psycopg2cffi" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\postgresql\psycopg2cffi.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.postgresql.pygresql" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\postgresql\pygresql.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.postgresql.pypostgresql" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\postgresql\pypostgresql.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.postgresql.ranges" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\postgresql\ranges.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.postgresql.zxjdbc" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\postgresql\zxjdbc.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.postgresql" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\postgresql\__init__.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.sqlite.base" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\sqlite\base.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.sqlite.pysqlcipher" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\sqlite\pysqlcipher.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.sqlite.pysqlite" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\sqlite\pysqlite.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.sqlite" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\sqlite\__init__.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.sybase.base" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\sybase\base.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.sybase.mxodbc" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\sybase\mxodbc.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.sybase.pyodbc" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\sybase\pyodbc.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.sybase.pysybase" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\sybase\pysybase.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.dialects.sybase" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\dialects\sybase\__init__.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.engine.base" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\engine\base.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.engine.default" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\engine\default.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.engine.interfaces" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\engine\interfaces.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.engine.reflection" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\engine\reflection.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.engine.result" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\engine\result.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.engine.strategies" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\engine\strategies.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.engine.threadlocal" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\engine\threadlocal.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.engine.url" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\engine\url.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.engine.util" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\engine\util.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.engine" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\engine\__init__.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.event.api" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\event\api.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.event.attr" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\event\attr.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.event.base" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\event\base.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.event.legacy" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\event\legacy.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.event.registry" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\event\registry.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.event" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\event\__init__.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.ext.associationproxy" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\ext\associationproxy.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.ext.automap" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\ext\automap.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.ext.baked" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\ext\baked.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.ext.compiler" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\ext\compiler.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.ext.horizontal_shard" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\ext\horizontal_shard.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.ext.hybrid" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\ext\hybrid.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.ext.indexable" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\ext\indexable.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.ext.instrumentation" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\ext\instrumentation.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.ext.mutable" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\ext\mutable.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.ext.orderinglist" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\ext\orderinglist.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.ext.serializer" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\ext\serializer.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.ext" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\ext\__init__.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.ext.declarative.api" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\ext\declarative\api.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.ext.declarative.base" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\ext\declarative\base.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.ext.declarative.clsregistry" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\ext\declarative\clsregistry.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.ext.declarative" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\ext\declarative\__init__.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.orm.attributes" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\attributes.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.orm.base" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\base.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.orm.collections" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\collections.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.orm.dependency" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\dependency.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.orm.deprecated_interfaces" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\deprecated_interfaces.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.orm.descriptor_props" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\descriptor_props.py")
+2017-02-10T21:46:43: Parsing "sqlalchemy.orm.dynamic" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\dynamic.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.orm.evaluator" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\evaluator.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.orm.events" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\events.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.orm.exc" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\exc.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.orm.identity" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\identity.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.orm.instrumentation" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\instrumentation.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.orm.interfaces" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\interfaces.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.orm.loading" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\loading.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.orm.mapper" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\mapper.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.orm.path_registry" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\path_registry.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.orm.persistence" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\persistence.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.orm.properties" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\properties.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.orm.query" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\query.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.orm.relationships" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\relationships.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.orm.scoping" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\scoping.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.orm.session" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\session.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.orm.state" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\state.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.orm.strategies" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\strategies.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.orm.strategy_options" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\strategy_options.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.orm.sync" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\sync.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.orm.unitofwork" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\unitofwork.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.orm.util" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\util.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.orm" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\orm\__init__.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.sql.annotation" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\sql\annotation.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.sql.base" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\sql\base.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.sql.compiler" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\sql\compiler.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.sql.crud" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\sql\crud.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.sql.ddl" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\sql\ddl.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.sql.default_comparator" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\sql\default_comparator.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.sql.dml" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\sql\dml.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.sql.elements" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\sql\elements.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.sql.expression" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\sql\expression.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.sql.functions" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\sql\functions.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.sql.naming" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\sql\naming.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.sql.operators" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\sql\operators.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.sql.schema" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\sql\schema.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.sql.selectable" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\sql\selectable.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.sql.sqltypes" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\sql\sqltypes.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.sql.type_api" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\sql\type_api.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.sql.util" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\sql\util.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.sql.visitors" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\sql\visitors.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.sql" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\sql\__init__.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.testing.assertions" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\assertions.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.testing.assertsql" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\assertsql.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.testing.config" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\config.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.testing.engines" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\engines.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.testing.entities" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\entities.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.testing.exclusions" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\exclusions.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.testing.fixtures" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\fixtures.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.testing.mock" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\mock.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.testing.pickleable" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\pickleable.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.testing.profiling" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\profiling.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.testing.provision" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\provision.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.testing.replay_fixture" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\replay_fixture.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.testing.requirements" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\requirements.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.testing.runner" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\runner.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.testing.schema" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\schema.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.testing.util" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\util.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.testing.warnings" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\warnings.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.testing" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\__init__.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.testing.plugin.bootstrap" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\plugin\bootstrap.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.testing.plugin.noseplugin" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\plugin\noseplugin.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.testing.plugin.plugin_base" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\plugin\plugin_base.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.testing.plugin.pytestplugin" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\plugin\pytestplugin.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.testing.plugin" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\plugin\__init__.py")
+2017-02-10T21:46:44: Parsing "sqlalchemy.testing.suite.test_ddl" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\suite\test_ddl.py")
+2017-02-10T21:46:45: Parsing "sqlalchemy.testing.suite.test_dialect" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\suite\test_dialect.py")
+2017-02-10T21:46:45: Parsing "sqlalchemy.testing.suite.test_insert" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\suite\test_insert.py")
+2017-02-10T21:46:45: Parsing "sqlalchemy.testing.suite.test_reflection" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\suite\test_reflection.py")
+2017-02-10T21:46:45: Parsing "sqlalchemy.testing.suite.test_results" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\suite\test_results.py")
+2017-02-10T21:46:45: Parsing "sqlalchemy.testing.suite.test_select" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\suite\test_select.py")
+2017-02-10T21:46:45: Parsing "sqlalchemy.testing.suite.test_sequence" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\suite\test_sequence.py")
+2017-02-10T21:46:45: Parsing "sqlalchemy.testing.suite.test_types" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\suite\test_types.py")
+2017-02-10T21:46:45: Parsing "sqlalchemy.testing.suite.test_update_delete" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\suite\test_update_delete.py")
+2017-02-10T21:46:45: Parsing "sqlalchemy.testing.suite" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\testing\suite\__init__.py")
+2017-02-10T21:46:45: Parsing "sqlalchemy.util.compat" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\util\compat.py")
+2017-02-10T21:46:45: Parsing "sqlalchemy.util.deprecations" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\util\deprecations.py")
+2017-02-10T21:46:45: Parsing "sqlalchemy.util.langhelpers" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\util\langhelpers.py")
+2017-02-10T21:46:45: Parsing "sqlalchemy.util.queue" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\util\queue.py")
+2017-02-10T21:46:45: Parsing "sqlalchemy.util.topological" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\util\topological.py")
+2017-02-10T21:46:45: Parsing "sqlalchemy.util._collections" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\util\_collections.py")
+2017-02-10T21:46:45: Parsing "sqlalchemy.util" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy\util\__init__.py")
+2017-02-10T21:46:45: Parsing complete
+2017-02-10T21:46:45: Analyzing "sqlalchemy.events"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.exc"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.inspection"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.interfaces"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.log"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.pool"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.processors"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.schema"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.types"
+2017-02-10T21:46:45: Analyzing "sqlalchemy"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.connectors.mxodbc"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.connectors.pyodbc"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.connectors.zxJDBC"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.connectors"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.databases"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.firebird.base"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.firebird.fdb"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.firebird.kinterbasdb"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.firebird"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.mssql.adodbapi"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.mssql.base"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.mssql.information_schema"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.mssql.mxodbc"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.mssql.pymssql"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.mssql.pyodbc"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.mssql.zxjdbc"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.mssql"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.mysql.base"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.mysql.cymysql"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.mysql.enumerated"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.mysql.gaerdbms"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.mysql.json"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.mysql.mysqlconnector"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.mysql.mysqldb"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.mysql.oursql"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.mysql.pymysql"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.mysql.pyodbc"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.mysql.reflection"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.mysql.types"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.mysql.zxjdbc"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.mysql"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.oracle.base"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.oracle.cx_oracle"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.oracle.zxjdbc"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.oracle"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.postgresql.array"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.postgresql.base"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.postgresql.dml"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.postgresql.ext"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.postgresql.hstore"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.postgresql.json"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.postgresql.pg8000"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.postgresql.psycopg2"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.postgresql.psycopg2cffi"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.postgresql.pygresql"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.postgresql.pypostgresql"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.postgresql.ranges"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.postgresql.zxjdbc"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.postgresql"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.sqlite.base"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.sqlite.pysqlcipher"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.sqlite.pysqlite"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.sqlite"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.sybase.base"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.sybase.mxodbc"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.sybase.pyodbc"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.sybase.pysybase"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.dialects.sybase"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.engine.base"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.engine.default"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.engine.interfaces"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.engine.reflection"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.engine.result"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.engine.strategies"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.engine.threadlocal"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.engine.url"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.engine.util"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.engine"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.event.api"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.event.attr"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.event.base"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.event.legacy"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.event.registry"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.event"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.ext.associationproxy"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.ext.automap"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.ext.baked"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.ext.compiler"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.ext.horizontal_shard"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.ext.hybrid"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.ext.indexable"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.ext.instrumentation"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.ext.mutable"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.ext.orderinglist"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.ext.serializer"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.ext"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.ext.declarative.api"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.ext.declarative.base"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.ext.declarative.clsregistry"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.ext.declarative"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.attributes"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.base"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.collections"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.dependency"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.deprecated_interfaces"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.descriptor_props"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.dynamic"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.evaluator"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.events"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.exc"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.identity"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.instrumentation"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.interfaces"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.loading"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.mapper"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.path_registry"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.persistence"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.properties"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.query"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.relationships"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.scoping"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.session"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.state"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.strategies"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.strategy_options"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.sync"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.unitofwork"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm.util"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.orm"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.sql.annotation"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.sql.base"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.sql.compiler"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.sql.crud"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.sql.ddl"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.sql.default_comparator"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.sql.dml"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.sql.elements"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.sql.expression"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.sql.functions"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.sql.naming"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.sql.operators"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.sql.schema"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.sql.selectable"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.sql.sqltypes"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.sql.type_api"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.sql.util"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.sql.visitors"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.sql"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.assertions"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.assertsql"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.config"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.engines"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.entities"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.exclusions"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.fixtures"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.mock"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.pickleable"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.profiling"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.provision"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.replay_fixture"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.requirements"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.runner"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.schema"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.util"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.warnings"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.plugin.bootstrap"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.plugin.noseplugin"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.plugin.plugin_base"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.plugin.pytestplugin"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.plugin"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.suite.test_ddl"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.suite.test_dialect"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.suite.test_insert"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.suite.test_reflection"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.suite.test_results"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.suite.test_select"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.suite.test_sequence"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.suite.test_types"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.suite.test_update_delete"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.testing.suite"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.util.compat"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.util.deprecations"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.util.langhelpers"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.util.queue"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.util.topological"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.util._collections"
+2017-02-10T21:46:45: Analyzing "sqlalchemy.util"
+2017-02-10T21:46:45: Starting analysis of 189 modules
+2017-02-10T21:46:57: Analysis complete
+2017-02-10T21:46:57: Saving group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy"
+2017-02-10T21:47:00: End of group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\sqlalchemy"
+2017-02-10T21:47:00: Start group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug" with 35 files
+2017-02-10T21:47:00: Parsing "werkzeug.datastructures" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\datastructures.py")
+2017-02-10T21:47:00: Parsing "werkzeug.exceptions" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\exceptions.py")
+2017-02-10T21:47:00: Parsing "werkzeug.filesystem" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\filesystem.py")
+2017-02-10T21:47:00: Parsing "werkzeug.formparser" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\formparser.py")
+2017-02-10T21:47:00: Parsing "werkzeug.http" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\http.py")
+2017-02-10T21:47:00: Parsing "werkzeug.local" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\local.py")
+2017-02-10T21:47:00: Parsing "werkzeug.posixemulation" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\posixemulation.py")
+2017-02-10T21:47:00: Parsing "werkzeug.routing" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\routing.py")
+2017-02-10T21:47:00: Parsing "werkzeug.script" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\script.py")
+2017-02-10T21:47:00: Parsing "werkzeug.security" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\security.py")
+2017-02-10T21:47:00: Parsing "werkzeug.serving" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\serving.py")
+2017-02-10T21:47:00: Parsing "werkzeug.test" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\test.py")
+2017-02-10T21:47:00: Parsing "werkzeug.testapp" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\testapp.py")
+2017-02-10T21:47:00: Parsing "werkzeug.urls" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\urls.py")
+2017-02-10T21:47:00: Parsing "werkzeug.useragents" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\useragents.py")
+2017-02-10T21:47:00: Parsing "werkzeug.utils" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\utils.py")
+2017-02-10T21:47:00: Parsing "werkzeug.wrappers" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\wrappers.py")
+2017-02-10T21:47:00: Parsing "werkzeug.wsgi" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\wsgi.py")
+2017-02-10T21:47:00: Parsing "werkzeug._compat" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\_compat.py")
+2017-02-10T21:47:00: Parsing "werkzeug._internal" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\_internal.py")
+2017-02-10T21:47:00: Parsing "werkzeug._reloader" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\_reloader.py")
+2017-02-10T21:47:00: Parsing "werkzeug" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\__init__.py")
+2017-02-10T21:47:00: Parsing "werkzeug.contrib.atom" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\contrib\atom.py")
+2017-02-10T21:47:00: Parsing "werkzeug.contrib.cache" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\contrib\cache.py")
+2017-02-10T21:47:00: Parsing "werkzeug.contrib.fixers" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\contrib\fixers.py")
+2017-02-10T21:47:00: Parsing "werkzeug.contrib.iterio" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\contrib\iterio.py")
+2017-02-10T21:47:00: Parsing "werkzeug.contrib.jsrouting" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\contrib\jsrouting.py")
+2017-02-10T21:47:00: Parsing "werkzeug.contrib.limiter" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\contrib\limiter.py")
+2017-02-10T21:47:00: Parsing "werkzeug.contrib.lint" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\contrib\lint.py")
+2017-02-10T21:47:00: Parsing "werkzeug.contrib.profiler" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\contrib\profiler.py")
+2017-02-10T21:47:00: Parsing "werkzeug.contrib.securecookie" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\contrib\securecookie.py")
+2017-02-10T21:47:00: Parsing "werkzeug.contrib.sessions" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\contrib\sessions.py")
+2017-02-10T21:47:00: Parsing "werkzeug.contrib.testtools" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\contrib\testtools.py")
+2017-02-10T21:47:00: Parsing "werkzeug.contrib.wrappers" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\contrib\wrappers.py")
+2017-02-10T21:47:00: Parsing "werkzeug.contrib" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug\contrib\__init__.py")
+2017-02-10T21:47:00: Parsing complete
+2017-02-10T21:47:00: Analyzing "werkzeug.datastructures"
+2017-02-10T21:47:00: Analyzing "werkzeug.exceptions"
+2017-02-10T21:47:00: Analyzing "werkzeug.filesystem"
+2017-02-10T21:47:00: Analyzing "werkzeug.formparser"
+2017-02-10T21:47:00: Analyzing "werkzeug.http"
+2017-02-10T21:47:00: Analyzing "werkzeug.local"
+2017-02-10T21:47:00: Analyzing "werkzeug.posixemulation"
+2017-02-10T21:47:00: Analyzing "werkzeug.routing"
+2017-02-10T21:47:00: Analyzing "werkzeug.script"
+2017-02-10T21:47:00: Analyzing "werkzeug.security"
+2017-02-10T21:47:00: Analyzing "werkzeug.serving"
+2017-02-10T21:47:00: Analyzing "werkzeug.test"
+2017-02-10T21:47:00: Analyzing "werkzeug.testapp"
+2017-02-10T21:47:00: Analyzing "werkzeug.urls"
+2017-02-10T21:47:00: Analyzing "werkzeug.useragents"
+2017-02-10T21:47:00: Analyzing "werkzeug.utils"
+2017-02-10T21:47:00: Analyzing "werkzeug.wrappers"
+2017-02-10T21:47:00: Analyzing "werkzeug.wsgi"
+2017-02-10T21:47:00: Analyzing "werkzeug._compat"
+2017-02-10T21:47:00: Analyzing "werkzeug._internal"
+2017-02-10T21:47:00: Analyzing "werkzeug._reloader"
+2017-02-10T21:47:00: Analyzing "werkzeug"
+2017-02-10T21:47:00: Analyzing "werkzeug.contrib.atom"
+2017-02-10T21:47:00: Analyzing "werkzeug.contrib.cache"
+2017-02-10T21:47:00: Analyzing "werkzeug.contrib.fixers"
+2017-02-10T21:47:00: Analyzing "werkzeug.contrib.iterio"
+2017-02-10T21:47:00: Analyzing "werkzeug.contrib.jsrouting"
+2017-02-10T21:47:00: Analyzing "werkzeug.contrib.limiter"
+2017-02-10T21:47:00: Analyzing "werkzeug.contrib.lint"
+2017-02-10T21:47:00: Analyzing "werkzeug.contrib.profiler"
+2017-02-10T21:47:00: Analyzing "werkzeug.contrib.securecookie"
+2017-02-10T21:47:00: Analyzing "werkzeug.contrib.sessions"
+2017-02-10T21:47:00: Analyzing "werkzeug.contrib.testtools"
+2017-02-10T21:47:00: Analyzing "werkzeug.contrib.wrappers"
+2017-02-10T21:47:00: Analyzing "werkzeug.contrib"
+2017-02-10T21:47:00: Starting analysis of 35 modules
+2017-02-10T21:47:03: Analysis complete
+2017-02-10T21:47:03: Saving group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug"
+2017-02-10T21:47:04: End of group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\werkzeug"
+2017-02-10T21:47:04: Start group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel" with 28 files
+2017-02-10T21:47:04: Parsing "wheel.archive" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\archive.py")
+2017-02-10T21:47:04: Parsing "wheel.bdist_wheel" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\bdist_wheel.py")
+2017-02-10T21:47:04: Parsing "wheel.decorator" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\decorator.py")
+2017-02-10T21:47:04: Parsing "wheel.egg2wheel" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\egg2wheel.py")
+2017-02-10T21:47:04: Parsing "wheel.install" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\install.py")
+2017-02-10T21:47:04: Parsing "wheel.metadata" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\metadata.py")
+2017-02-10T21:47:04: Parsing "wheel.paths" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\paths.py")
+2017-02-10T21:47:04: Parsing "wheel.pep425tags" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\pep425tags.py")
+2017-02-10T21:47:04: Parsing "wheel.pkginfo" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\pkginfo.py")
+2017-02-10T21:47:04: Parsing "wheel.util" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\util.py")
+2017-02-10T21:47:04: Parsing "wheel.wininst2wheel" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\wininst2wheel.py")
+2017-02-10T21:47:04: Parsing "wheel" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\__init__.py")
+2017-02-10T21:47:04: Parsing "wheel.__main__" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\__main__.py")
+2017-02-10T21:47:04: Parsing "wheel.signatures.djbec" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\signatures\djbec.py")
+2017-02-10T21:47:04: Parsing "wheel.signatures.ed25519py" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\signatures\ed25519py.py")
+2017-02-10T21:47:04: Parsing "wheel.signatures.keys" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\signatures\keys.py")
+2017-02-10T21:47:04: Parsing "wheel.signatures" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\signatures\__init__.py")
+2017-02-10T21:47:04: Parsing "wheel.test.test_basic" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\test\test_basic.py")
+2017-02-10T21:47:04: Parsing "wheel.test.test_install" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\test\test_install.py")
+2017-02-10T21:47:04: Parsing "wheel.test.test_keys" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\test\test_keys.py")
+2017-02-10T21:47:04: Parsing "wheel.test.test_paths" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\test\test_paths.py")
+2017-02-10T21:47:04: Parsing "wheel.test.test_ranking" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\test\test_ranking.py")
+2017-02-10T21:47:04: Parsing "wheel.test.test_signatures" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\test\test_signatures.py")
+2017-02-10T21:47:04: Parsing "wheel.test.test_tagopt" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\test\test_tagopt.py")
+2017-02-10T21:47:04: Parsing "wheel.test.test_tool" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\test\test_tool.py")
+2017-02-10T21:47:04: Parsing "wheel.test.test_wheelfile" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\test\test_wheelfile.py")
+2017-02-10T21:47:04: Parsing "wheel.test" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\test\__init__.py")
+2017-02-10T21:47:04: Parsing "wheel.tool" ("C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel\tool\__init__.py")
+2017-02-10T21:47:04: Parsing complete
+2017-02-10T21:47:04: Analyzing "wheel.archive"
+2017-02-10T21:47:04: Analyzing "wheel.bdist_wheel"
+2017-02-10T21:47:04: Analyzing "wheel.decorator"
+2017-02-10T21:47:04: Analyzing "wheel.egg2wheel"
+2017-02-10T21:47:04: Analyzing "wheel.install"
+2017-02-10T21:47:04: Analyzing "wheel.metadata"
+2017-02-10T21:47:04: Analyzing "wheel.paths"
+2017-02-10T21:47:04: Analyzing "wheel.pep425tags"
+2017-02-10T21:47:04: Analyzing "wheel.pkginfo"
+2017-02-10T21:47:04: Analyzing "wheel.util"
+2017-02-10T21:47:04: Analyzing "wheel.wininst2wheel"
+2017-02-10T21:47:04: Analyzing "wheel"
+2017-02-10T21:47:04: Analyzing "wheel.__main__"
+2017-02-10T21:47:04: Analyzing "wheel.signatures.djbec"
+2017-02-10T21:47:04: Analyzing "wheel.signatures.ed25519py"
+2017-02-10T21:47:04: Analyzing "wheel.signatures.keys"
+2017-02-10T21:47:04: Analyzing "wheel.signatures"
+2017-02-10T21:47:04: Analyzing "wheel.test.test_basic"
+2017-02-10T21:47:04: Analyzing "wheel.test.test_install"
+2017-02-10T21:47:04: Analyzing "wheel.test.test_keys"
+2017-02-10T21:47:04: Analyzing "wheel.test.test_paths"
+2017-02-10T21:47:04: Analyzing "wheel.test.test_ranking"
+2017-02-10T21:47:04: Analyzing "wheel.test.test_signatures"
+2017-02-10T21:47:04: Analyzing "wheel.test.test_tagopt"
+2017-02-10T21:47:04: Analyzing "wheel.test.test_tool"
+2017-02-10T21:47:04: Analyzing "wheel.test.test_wheelfile"
+2017-02-10T21:47:04: Analyzing "wheel.test"
+2017-02-10T21:47:04: Analyzing "wheel.tool"
+2017-02-10T21:47:04: Starting analysis of 28 modules
+2017-02-10T21:47:07: Analysis complete
+2017-02-10T21:47:07: Saving group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel"
+2017-02-10T21:47:07: End of group "C:\Project\Python\MyBlog\Blog\Blog\env\Lib\site-packages\wheel"
+2017-02-10T21:47:07: Deleting 0 files
